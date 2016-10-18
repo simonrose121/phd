@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome!"
+title:  "Quick Introduction!"
 date:   2016-10-18 13:40:00 +0100
 categories: 
 ---
