@@ -5,14 +5,15 @@ date:   2016-10-18 14:46:00 +0100
 categories: 
 ---
 
-Seymour Papert's seminal work on the use of computers in education, originally written in 1986.
+The first stop on our journey is Seymour Papert's seminal work on the use of computers in education, 
+originally written in 1986 when we were just beginning to see computers in the classroom.
 
 _**Key Points**_
 
-**Child programming computer**  
+**Children programming computers, not the other way round**  
 The child becomes the episotomologist -> learning about learning knowledge.
 
-**Mathophobes becoming mathophiles**  
+**Mathophiles**  
 Not being taught knowledge correctly so building a mental barrier against it, "I'm not good at maths, etc".
 
 **Environments for learning**  
