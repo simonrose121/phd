@@ -5,7 +5,7 @@ date:   2016-10-19 14:25:00 +0100
 categories:
 ---
 
-![Big Lev]({{ site.url }}/{{ site.baseurl }}/assets/lev.jpg){:width="200px"}
+![Big Lev]({{ site.url }}/assets/lev.jpg){:width="200px"}
 
 
 **Vygotsky's 6 Major Assumptions**
@@ -54,4 +54,4 @@ The zone of proximal development is the activities that a child can do with
 the help of a more knowledgable other (MKO) that it would have otherwise
 been unable to do.
 
-![ZPD]({{ site.url }}/{{ site.baseurl }}/assets/zpd.png){:width="300px"}
+![ZPD]({{ site.url }}/assets/zpd.png){:width="300px"}
