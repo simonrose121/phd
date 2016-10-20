@@ -2,10 +2,12 @@
 layout: post
 title:  "Mindstorms - Children, Computers and Powerful Ideas"
 date:   2016-10-18 14:46:00 +0100
-categories: 
+categories:
 ---
 
-The first stop on our journey is Seymour Papert's seminal work on the use of computers in education, 
+![Mindstorms]({{ site.url }}/{{ site.baseurl }}/assets/mindstorms.jpg)
+
+The first stop on our journey is Seymour Papert's seminal work on the use of computers in education,
 originally written in 1986 when we were just beginning to see computers in the classroom.
 
 _**Key Points**_
@@ -27,4 +29,3 @@ to do with Logo)
 **Instructism vs constructionism**  
 Learning maths without meaning outside of the classroom. Constructionism means learning
 through experience in active construction with a strong social context.
-
