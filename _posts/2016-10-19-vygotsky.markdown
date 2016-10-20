@@ -2,16 +2,56 @@
 layout: post
 title:  "Vygotsky - Sociocultural Development"
 date:   2016-10-19 14:25:00 +0100
-categories: 
+categories:
 ---
+
+![Big Lev]({{ site.url }}/{{ site.baseurl }}/assets/lev.jpg){:width="200px"}
+
 
 **Vygotsky's 6 Major Assumptions**
 
-**Elementary Mental Functions**
+1. Adults convey to children a cutural interpretation of the world.
+2. Thought and language are interdependant.
+3. Complex mental processes are developed through social activities.
+4. Children can only complete challenging tasks with assistance from a more competant other.
+5. Completing challenging tasks causes cognitive growth.
+6. Play stretches cognitive function in children.
+
+**Elementary Mental Functions**  
+
+Children begin life with 4 elementary mental functions:
+- Memory
+- Attention
+- Sensation
+- Perception
 
 **Social Interaction & Cognitive Development**
 
-**Zones of Proximal Development**  
-Vygotsky and the Zones of Proximal Development.
+Children go through several stages of speech development:  
 
-Solid band name, I'd say.
+0- Preintellectual speech  
+Babbling, laughing, crying and gesturing.  
+
+1- Autonomous speech  
+The child attaches invented words to objects/people.  
+
+1.5- Naive psychology  
+Referring to objects by name.
+The child begins communicating using basic sentences.
+
+3-7 Communicative & ego-centric communication
+Communicative speech is communicating with others.
+Ego-centric speech is communicating with ones self.
+
+Ego-centric moves from speaking out loud (self-talk or to another individual)
+through to inner speech as the children develops cognitively.
+
+Inner speech is not fully functional until age 12. It represents the most
+advanced level of the relationship between speech and thought.
+
+**Zone of Proximal Development**  
+The zone of proximal development is the activities that a child can do with
+the help of a more knowledgable other (MKO) that it would have otherwise
+been unable to do.
+
+![ZPD]({{ site.url }}/{{ site.baseurl }}/assets/zpd.png){:width="300px"}
