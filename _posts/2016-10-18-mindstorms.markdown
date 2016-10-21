@@ -5,7 +5,7 @@ date:   2016-10-18 14:46:00 +0100
 categories:
 ---
 
-![Mindstorms]({{ site.url }}/assets/mindstorms.jpg)
+![Mindstorms]({{ site.url }}{{ site.baseurl }}/assets/mindstorms.jpg)
 
 The first stop on our journey is Seymour Papert's seminal work on the use of computers in education,
 originally written in 1986 when we were just beginning to see computers in the classroom.
