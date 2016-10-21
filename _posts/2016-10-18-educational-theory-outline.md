@@ -2,7 +2,7 @@
 layout: post
 title:  "Educational Theories - Overview"
 date:   2016-10-18 15:04:00 +0100
-categories: 
+categories:
 ---
 
 In order to understand the theory behind how children learn, I need to delve
@@ -14,8 +14,8 @@ So here we go, the main men and their theories that will be the topic of future 
 - Lev Vygotsky
     - Social cognition
 - Jerome Bruner (and David Wood)
-    - Constructivsm and discovery learning
+    - Scaffolding
 - Jean Paiget
-    - Cognitive development (constructivism)
+    - Stages of cognitive development (constructivism)
 - Seymour Papert
     - Constructionism vs Instructionism
