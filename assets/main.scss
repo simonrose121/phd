@@ -14,7 +14,7 @@ $spacing-unit:     30px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$brand-color:      #00bcd4;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -37,3 +37,24 @@ $on-laptop:        800px;
 
 // Import partials from the `minima` theme.
 @import "minima";
+
+// overrides
+.post-list a:visited, .post-list a
+{
+	color: #000 !important;
+}
+
+.site-header
+{
+	background: #00bcd4;
+}
+
+.site-title
+{
+	color: #FFF !important;
+}
+
+.site-header
+{
+	border-top: none !important;
+}
