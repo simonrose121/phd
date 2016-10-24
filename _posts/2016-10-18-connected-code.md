@@ -9,15 +9,19 @@ categories:
 
 Connected Code is written by Yasmin Kafai and Quinn Burke, both are advocates of programming in education and constructionist learning.
 
-**Computational thinking**
+**Computational participation**
 
-- Papert
+- Papert's constructionist learning
 - Programming in education
-- Tutor, tool and tutee
+	- Introduced in to UK and some other curriculum but not US
+- Open source movement
+	- "created, used, repurposed and shared"
+- Computers as a tutor, tool and tutee (making the transition to the child programming the computer)
 
 **Objects-to-share-with**
 
-- Instead of objects-to-think-with
+- Instead of objects-to-think-with (learning is a social process)
+- Creating personal knowledge
 
 **Scratch-collaboration**
 
@@ -25,11 +29,11 @@ Connected Code is written by Yasmin Kafai and Quinn Burke, both are advocates of
 
 **Remixing**
 
-- Bricolage
-- Remix trees
+- Bricolage (bottom up approach to creating)
+- Remix trees (attributing to original creator of work)
 
 **Tangibles**
 
-- Syntonic learning
+- Syntonic learning (makey makey boards)
 - Lego mindstorms
 - Smart textiles
