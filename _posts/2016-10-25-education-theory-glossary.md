@@ -12,7 +12,7 @@ The process or act of acquiring knowledge and understanding.
 Human's must "construct" their own knowledge through interactions with the world around them.
 
 **Social Constructivism**
-Knowledge is constructed through interaction with others.
+The theory that knowledge is constructed through interaction with others.
 
 **Cognitive Development**
 A field of pyschology focusing on the development of cognition in children. Includes information processing, language learning and conceptual resources.
