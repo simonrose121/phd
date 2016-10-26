@@ -7,13 +7,20 @@ layout: default
   {{ content }}
 
   <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }} <span style="color: #00bcd4"><br/>{{ post.categories }}</span></span>
-        <h2>
-          <a class="post-link" href="{{ site.baseurl }}{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
+    {% for category in site.categories %}
+        <li>
+            <h1 class="post-title" style="color: #00bcd4">{{ category || first }}</h1>
+            {% for posts in category %}
+                {% for post in posts %}
+                    <li>
+                        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+                        <h2>
+                          <a class="post-link" href="{{ site.baseurl }}{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+                        </h2>
+                    </li>
+                {% endfor %}
+            {% endfor %}
+        </li>
     {% endfor %}
   </ul>
 
