@@ -2,7 +2,7 @@
 layout: post
 title:  "Distributed Cognition"
 date:   2016-10-25 16:33:00 +0100
-categories:
+categories: education-theory
 ---
 
 Distributed cognition is the theory that cognition can be spread across objects, individuals, artifacts and tools. This is done to further thinking and distribute effort required to complete a task.

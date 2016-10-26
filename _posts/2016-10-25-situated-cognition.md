@@ -2,7 +2,7 @@
 layout: post
 title:  "Situated Cognition"
 date:   2016-10-25 16:10:00 +0100
-categories:
+categories: education-theory
 ---
 
 Situated cognition theory builds upon the social constructivist theories of Vygotsky and others. It moves away from the teaching of abstract principles towards learning in context.

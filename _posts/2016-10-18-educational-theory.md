@@ -2,7 +2,7 @@
 layout: post
 title:  "Educational Theories - Overview"
 date:   2016-10-18 15:04:00 +0100
-categories:
+categories: education-theory
 ---
 
 In order to understand the theory behind how children learn, I need to delve
