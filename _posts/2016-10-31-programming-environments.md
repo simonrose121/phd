@@ -11,10 +11,12 @@ After getting my knowledge of educational theory up to speed, the next area to r
 
 *Text*
 
+- Karel
 - Logo
 - Hopscotch (and Visual)
 - Swifty
 - Codeacademy
+- Guido van Robot
 
 *Visual*
 
