@@ -5,7 +5,7 @@ date:   2016-10-31 12:02:00 +0100
 categories: programming-environments
 ---
 
-After getting my knowledge of educational theory up to speed, the next area to research is existing educational programming environments. A list of which can be found below, these may be grouped together for individual articles depending on how many there is!
+After getting my knowledge of educational theory up to speed, the next area to research is existing educational programming environments. The aim of this list is to read around the subject so target age range has not been taken in to account.
 
 **Tutorial/Creative**
 
