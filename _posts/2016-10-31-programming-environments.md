@@ -7,21 +7,46 @@ categories: programming-environments
 
 After getting my knowledge of educational theory up to speed, the next area to research is existing educational programming environments. A list of which can be found below, these may be grouped together for individual articles depending on how many there is!
 
+**Tutorial/Creative**
+
+*Text*
+
 - Logo
-- Scratch
-- Scratch Jr
-- Espresso Coding
-- Stagecast Creator
-- ToonTalk
-- Lightbot
-- Bee-Bot
-- LEGO Mindstorms
-- Hopscotch
+- Hopscotch (and Visual)
 - Swifty
 - Codeacademy
+
+*Visual*
+
+- Kodable
+- Scratch Jr
+- Espresso Coding
+- ToonTalk
+
+*Text & Visual*
+
+- Scratch
+- Stagecast Creator
+- Microsoft Kodu
+
+*Physical*
+
+- Bee-bot
+- LEGO Mindstorms (and visual)
+
+**Games**
+
+*Text*
+
+- Code combat
+
+*Visual*
+
 - Code Monkey Island
 - Box Island
-- Code combat
-- Microsoft Kodu
-- Kodable
+- Lightbot
+- Lightbot Jr
+
+*Physical*
+
 - Cork the Volcano
