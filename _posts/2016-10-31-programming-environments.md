@@ -7,7 +7,7 @@ categories: programming-environments
 
 After getting my knowledge of educational theory up to speed, the next area to research is existing educational programming environments. The aim of this list is to read around the subject so target age range has not been taken in to account.
 
-**Tutorial/Creative**
+**Traditional/Creative**
 
 *Text*
 
@@ -31,7 +31,7 @@ After getting my knowledge of educational theory up to speed, the next area to r
 - Scratch
 - Stagecast Creator
 - Microsoft Kodu
-- Code.org
+- Code.org (Hour of Code)
 
 *Physical*
 
