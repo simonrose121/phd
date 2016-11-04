@@ -37,6 +37,8 @@ ScratchJr is designed for children 5-7 years old. It simplifies Scratch's concep
 	- ScratchJr uses a simplified coordinate system that is easier to understand.
 - Minimising mouse movement, clicking and scrolling
 	- All items are close together with the aim of minimising movement to be performed.
+- Pages
+	- There is a limit of 4 pages on ScratchJr so users can create basic stories.
 
 **Use in Education**
 
