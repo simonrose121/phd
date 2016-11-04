@@ -25,7 +25,7 @@ After getting my knowledge of educational theory up to speed, the next area to r
 - Kodable
 - [Scratch Jr]({{ site.baseurl }}{% post_url 2016-11-04-scratchjr %})
 - Espresso Coding
-- ToonTalk
+- [ToonTalk]({{ site.baseurl }}{% post_url 2016-11-04-toontalk %})
 
 *Text & Visual*
 
