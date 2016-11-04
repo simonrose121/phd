@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Educational Programming Environments"
+title:  "Educational Programming Environments & Languages"
 date:   2016-10-31 12:02:00 +0100
 categories: programming
 ---
@@ -18,6 +18,7 @@ After getting my knowledge of educational theory up to speed, the next area to r
 - Codeacademy
 - Guido van Robot
 - Smalltalk
+- Hypertalk
 
 *Visual*
 
