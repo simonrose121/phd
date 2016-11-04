@@ -54,3 +54,7 @@ ScratchJr is designed for children 5-7 years old. It simplifies Scratch's concep
 		- use technology safely and respectfully, keeping personal information private; identify
 	where to go for help and support when they have concerns about content or contact on
 	the internet or other online technologies.
+
+**Sources**
+
+Flannery, L. P., Kazakoff, E. R., Bontá, P., Silverman, B., Bers, M. U., Resnick, M., … Resnick, M. (2013). Designing ScratchJr: Support for Early Childhood Learning Through Computer Programming. Proceedings of the 12th International Conference on Interaction Design and Children (IDC ’13), 1–10. https://doi.org/10.1145/2485760.2485785
