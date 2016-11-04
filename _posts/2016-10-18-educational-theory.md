@@ -11,11 +11,11 @@ learning, which is the main theory behind visual programming languages such as S
 
 So here we go, the main men and their theories that will be the topic of future posts:
 
-- Lev Vygotsky
+- [Lev Vygotsky]({{ site.baseurl }}{% post_url 2016-10-19-vygotsky %})
     - Social cognition
-- Jerome Bruner (and David Wood)
+- [Jerome Bruner]({{ site.baseurl }}{% post_url 2016-10-24-bruner %}) (and [David Wood]({{ site.baseurl }}{% post_url 2016-10-25-wood %}))
     - Scaffolding
-- Jean Paiget
+- [Jean Paiget]({{ site.baseurl }}{% post_url 2016-10-21-piaget %})
     - Stages of cognitive development (constructivism)
-- Seymour Papert
+- [Seymour Papert]({{ site.baseurl }}{% post_url 2016-10-24-papert %})
     - Constructionism vs Instructionism
