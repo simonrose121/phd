@@ -32,6 +32,7 @@ After getting my knowledge of educational theory up to speed, the next area to r
 - Stagecast Creator
 - Microsoft Kodu
 - Code.org (Hour of Code)
+- Daisy the Dinosaur
 
 *Physical*
 
