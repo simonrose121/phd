@@ -11,8 +11,8 @@ After getting my knowledge of educational theory up to speed, the next area to r
 
 *Text*
 
+- [Turtle Logo]({{ site.baseurl }}{% post_url 2016-11-02-logo %})
 - Karel
-- Logo
 - Hopscotch (and Visual)
 - Swifty
 - Codeacademy
@@ -22,16 +22,17 @@ After getting my knowledge of educational theory up to speed, the next area to r
 *Visual*
 
 - Kodable
-- Scratch Jr
+- [Scratch Jr]({{ site.baseurl }}{% post_url 2016-11-04-scratchjr %})
 - Espresso Coding
 - ToonTalk
 
 *Text & Visual*
 
-- Scratch
+- [Scratch]({{ site.baseurl }}{% post_url 2016-11-02-scratch %})
+- [Blockly]({{ site.baseurl }}{% post_url 2016-11-03-blockly %})
 - Stagecast Creator
 - Microsoft Kodu
-- Code.org (Hour of Code)
+- [Code.org (Hour of Code)]({{ site.baseurl }}{% post_url 2016-11-03-blockly %})
 - Daisy the Dinosaur
 
 *Physical*
