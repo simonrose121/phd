@@ -18,6 +18,7 @@ After getting my knowledge of educational theory up to speed, the next area to r
 - Guido van Robot
 - Smalltalk
 - Hypertalk
+- BASIC
 
 *Visual*
 
