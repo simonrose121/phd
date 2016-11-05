@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Educational Programming Environments & Languages"
+title:  "Educational Programming Tools"
 date:   2016-10-31 12:02:00 +0100
 categories: programming
 ---
