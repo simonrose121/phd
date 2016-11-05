@@ -31,22 +31,25 @@ After getting my knowledge of educational theory up to speed, the next area to r
 
 - [Scratch]({{ site.baseurl }}{% post_url 2016-11-02-scratch %})
 - [Blockly]({{ site.baseurl }}{% post_url 2016-11-03-blockly %})
-- Stagecast Creator
+- [Stagecast Creator]({{ site.baseurl }}{% post_url 2016-11-05-stagecast-creator %})
 - Microsoft Kodu
 - [Code.org (Hour of Code)]({{ site.baseurl }}{% post_url 2016-11-03-blockly %})
 - Daisy the Dinosaur
 - Tynker Games
-- Tickle
 - Hopscotch
 - Alice
 - Minecraft Education Edition
 - Gamemaker
 - AgentCubes
 
+*Tangibles*
+
+- LEGO Mindstorms (and visual)
+- Tickle
+
 *Physical*
 
-- Bee-bot
-- LEGO Mindstorms (and visual)
+- Bee-bots
 
 **Games**
 
