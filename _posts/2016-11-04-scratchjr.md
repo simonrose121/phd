@@ -7,7 +7,7 @@ categories: programming
 
 ![ScratchJr Environment]({{ site.url }}{{ site.baseurl }}/assets/scratchjr.png){:width="500px"}
 
-ScratchJr is designed for children 5-7 years old. It simplifies Scratch's concepts to produce a block-based environment that is easier to use for children of this age range.
+ScratchJr is designed for children 5-7 years old. It simplifies Scratch's concepts to produce a block-based environment that is easier to use for children of this age range. It's conception was based on research that Scratch is not suitible for children aged below 8 years old.
 
 **Based On**
 
