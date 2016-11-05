@@ -13,7 +13,6 @@ After getting my knowledge of educational theory up to speed, the next area to r
 
 - [Turtle Logo]({{ site.baseurl }}{% post_url 2016-11-02-logo %})
 - Karel
-- Hopscotch (and Visual)
 - Swifty
 - Codeacademy
 - Guido van Robot
@@ -35,6 +34,11 @@ After getting my knowledge of educational theory up to speed, the next area to r
 - Microsoft Kodu
 - [Code.org (Hour of Code)]({{ site.baseurl }}{% post_url 2016-11-03-blockly %})
 - Daisy the Dinosaur
+- Tynker Games
+- Tickle
+- Hopscotch
+- Alice
+- Minecraft Education Edition
 
 *Physical*
 
@@ -51,8 +55,10 @@ After getting my knowledge of educational theory up to speed, the next area to r
 
 - Code Monkey Island
 - Box Island
-- Lightbot
-- Lightbot Jr
+- [Lightbot]({{ site.baseurl }}{% post_url 2016-11-05-lightbot %})
+- [Lightbot Jr]({{ site.baseurl }}{% post_url 2016-11-05-lightbot %})
+- The Foos
+- Cargo-bot
 
 *Physical*
 
