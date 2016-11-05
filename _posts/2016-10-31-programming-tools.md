@@ -44,7 +44,8 @@ After getting my knowledge of educational theory up to speed, the next area to r
 
 *Tangibles*
 
-- LEGO Mindstorms (and visual)
+- [Lego WeDo]({{ site.baseurl }}{% post_url 2016-11-05-lego-wedo %})
+- LEGO Mindstorms
 - Tickle
 
 *Physical*
