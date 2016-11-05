@@ -49,7 +49,7 @@ After getting my knowledge of educational theory up to speed, the next area to r
 
 *Physical*
 
-- Bee-bots
+- [Bee-bots]({{ site.baseurl }}{% post_url 2016-11-05-beebots %})
 
 **Games**
 
