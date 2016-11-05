@@ -23,7 +23,14 @@ Stagecast Creator is a visual programming environment designed to develop games.
 	- This concept is called programming by demonstration.
 	- Eliminates need for programming syntax.
 	- Complex behaviours can be programmed in a simple fashion.
+	- Programming concepts
+		- Variables
+		- Iteration
+		- Conditionals
+		- Sub-routines
 
 **Sources**
+
+Seals, C., Rosson, M. B., Carroll, J. M., Lewis, T., & Colson, L. (2002). Fun learning Stagecast Creator: An exercise in minimalism and collaboration. Proceedings - IEEE 2002 Symposia on Human Centric Computing Languages and Environments, HCC 2002, 177–186. https://doi.org/10.1109/HCC.2002.1046370
 
 Smith, D. C., Cypher, A., & Tesler, L. (2000). Programming by example: novice programming comes of age. Communications of the ACM, 43(March 2000), 75–81. https://doi.org/10.1145/330534.330544
