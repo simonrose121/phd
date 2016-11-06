@@ -19,12 +19,15 @@ After getting my knowledge of educational theory up to speed, the next area to r
 - Smalltalk
 - Hypertalk
 - BASIC
+- SmallBasic
+- TechRocket
+- Code Monster
 
 *Visual*
 
 - Kodable
 - [Scratch Jr]({{ site.baseurl }}{% post_url 2016-11-04-scratchjr %})
-- Espresso Coding
+- [Espresso Coding]({{ site.baseurl }}{% post_url 2016-11-06-espresso-coding %})
 - [ToonTalk]({{ site.baseurl }}{% post_url 2016-11-04-toontalk %})
 
 *Text & Visual*
@@ -41,6 +44,8 @@ After getting my knowledge of educational theory up to speed, the next area to r
 - Minecraft Education Edition
 - Gamemaker
 - AgentCubes
+- TouchDevelop
+- Stencyl
 
 *Tangibles*
 
