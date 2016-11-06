@@ -64,7 +64,7 @@ After getting my knowledge of educational theory up to speed, the next area to r
 
 *Visual*
 
-- Kodable
+- [Kodable]({{ site.baseurl }}{% post_url 2016-11-06-kodable %})
 - Code Monkey Island
 - Box Island
 - [Lightbot]({{ site.baseurl }}{% post_url 2016-11-05-lightbot %})
