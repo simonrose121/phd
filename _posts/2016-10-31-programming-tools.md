@@ -19,7 +19,7 @@ After getting my knowledge of educational theory up to speed, the next area to r
 - Smalltalk
 - Hypertalk
 - BASIC
-- SmallBasic
+- [SmallBasic]({{ site.baseurl }}{% post_url 2016-11-06-small-basic %})
 - TechRocket
 - Code Monster
 
