@@ -25,7 +25,6 @@ After getting my knowledge of educational theory up to speed, the next area to r
 
 *Visual*
 
-- Kodable
 - [Scratch Jr]({{ site.baseurl }}{% post_url 2016-11-04-scratchjr %})
 - [Espresso Coding]({{ site.baseurl }}{% post_url 2016-11-06-espresso-coding %})
 - [ToonTalk]({{ site.baseurl }}{% post_url 2016-11-04-toontalk %})
@@ -61,10 +60,11 @@ After getting my knowledge of educational theory up to speed, the next area to r
 
 *Text*
 
-- CodeCombat
+- [CodeCombat]({{ site.baseurl }}{% post_url 2016-11-06-codecombat %})
 
 *Visual*
 
+- Kodable
 - Code Monkey Island
 - Box Island
 - [Lightbot]({{ site.baseurl }}{% post_url 2016-11-05-lightbot %})
