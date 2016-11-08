@@ -74,4 +74,4 @@ After getting my knowledge of educational theory up to speed, the next area to r
 
 *Physical*
 
-- Cork the Volcano
+- [Cork the Volcano]({{ site.baseurl }}{% post_url 2016-11-08-cork-the-volcano %})
