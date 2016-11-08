@@ -7,7 +7,7 @@ categories: programming
 
 After getting my knowledge of educational theory up to speed, the next area to research is existing educational programming environments. The aim of this list is to read around the subject so target age range has not been taken in to account.
 
-**Traditional/Creative**
+**Traditional**
 
 *Text*
 
@@ -27,8 +27,6 @@ After getting my knowledge of educational theory up to speed, the next area to r
 *Visual*
 
 - [Scratch Jr]({{ site.baseurl }}{% post_url 2016-11-04-scratchjr %})
-- [Espresso Coding]({{ site.baseurl }}{% post_url 2016-11-06-espresso-coding %})
-- [ToonTalk]({{ site.baseurl }}{% post_url 2016-11-04-toontalk %})
 
 *Text & Visual*
 
@@ -45,6 +43,8 @@ After getting my knowledge of educational theory up to speed, the next area to r
 - AgentCubes
 - TouchDevelop
 - Stencyl
+- [Espresso Coding]({{ site.baseurl }}{% post_url 2016-11-06-espresso-coding %})
+- [ToonTalk]({{ site.baseurl }}{% post_url 2016-11-04-toontalk %})
 
 *Physical*
 
@@ -61,13 +61,16 @@ After getting my knowledge of educational theory up to speed, the next area to r
 *Visual*
 
 - [Kodable]({{ site.baseurl }}{% post_url 2016-11-06-kodable %})
-- Code Monkey Island
-- Box Island
 - [Lightbot]({{ site.baseurl }}{% post_url 2016-11-05-lightbot %})
 - [Lightbot Jr]({{ site.baseurl }}{% post_url 2016-11-05-lightbot %})
 - The Foos
+
+*Text & Visual*
+
 - Cargo-bot
+- Box Island
 
 *Physical*
 
 - [Cork the Volcano]({{ site.baseurl }}{% post_url 2016-11-08-cork-the-volcano %})
+- Code Monkey Island
