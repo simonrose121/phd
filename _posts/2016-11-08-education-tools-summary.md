@@ -11,7 +11,7 @@ Below is a venn diagram that attempts to categorise these tools in to textual, v
 
 ![Categories]({{ site.url }}{{ site.baseurl }}/assets/educationaltoolsdiagram.png)
 
-Additionally, several other interesting aspects can be drawn from these tools... which may or may not be the subject of future articles:
+Additionally, several other interesting aspects can be drawn from these tools... which may or may not be the subject of some future research:
 
 - Constructionism vs instructionism
 - Problem based learning, game based learning and design based learning.
