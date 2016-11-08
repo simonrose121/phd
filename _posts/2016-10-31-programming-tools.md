@@ -22,6 +22,7 @@ After getting my knowledge of educational theory up to speed, the next area to r
 - [SmallBasic]({{ site.baseurl }}{% post_url 2016-11-06-small-basic %})
 - TechRocket
 - Code Monster
+- Alice
 
 *Visual*
 
@@ -38,8 +39,7 @@ After getting my knowledge of educational theory up to speed, the next area to r
 - [Code.org (Hour of Code)]({{ site.baseurl }}{% post_url 2016-11-03-blockly %})
 - Daisy the Dinosaur
 - Tynker Games
-- Hopscotch
-- Alice
+- [Hopscotch]({{ site.baseurl }}{% post_url 2016-11-08-hopscotch %})
 - Minecraft Education Edition
 - Gamemaker
 - AgentCubes
