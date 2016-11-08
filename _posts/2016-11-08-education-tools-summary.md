@@ -17,6 +17,6 @@ Additionally, several other interesting aspects can be drawn from these tools...
 - Problem based learning and game based learning
 - Rule based (declarative programming) compared to imperative programming languages taught on CS courses.
 - Linking code to a character or placing it in a single programming space.
-- Sequential vs concurrent
+- Sequential vs concurrent (general idea about teaching complex programming principles in a diguised way).
 - Programming by demonstration (PBD)
 - *Appropriateness for younger children?*
