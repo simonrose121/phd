@@ -46,15 +46,11 @@ After getting my knowledge of educational theory up to speed, the next area to r
 - TouchDevelop
 - Stencyl
 
-*Tangibles*
-
-- [Lego WeDo]({{ site.baseurl }}{% post_url 2016-11-05-lego-wedo %})
-- LEGO Mindstorms
-- Tickle
-
 *Physical*
 
 - [Bee-bots]({{ site.baseurl }}{% post_url 2016-11-05-beebots %})
+- [Lego Mindstorms & Lego WeDo]({{ site.baseurl }}{% post_url 2016-11-05-lego-wedo %})
+- Tickle
 
 **Games**
 
