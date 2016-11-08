@@ -20,4 +20,4 @@ Additionally, several other interesting aspects can be drawn from these tools...
 - Sequential vs concurrent (general idea about teaching complex programming principles in a diguised way).
 - Programming by demonstration (PBD)
 - Teacher content (lesson plans, how it fits with curriculums, etc).
-- *Appropriateness for younger children?*
+- *Appropriateness for younger children? How can you say?*
