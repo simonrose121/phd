@@ -52,6 +52,7 @@ After getting my knowledge of educational theory up to speed, the next area to r
 - [Bee-bots]({{ site.baseurl }}{% post_url 2016-11-05-beebots %})
 - [Lego Mindstorms & Lego WeDo]({{ site.baseurl }}{% post_url 2016-11-05-lego-wedo %})
 - Tickle
+- Dash & Dot
 
 **Games**
 
