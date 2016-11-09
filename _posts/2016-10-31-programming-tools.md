@@ -39,7 +39,7 @@ After getting my knowledge of educational theory up to speed, the next area to r
 - Tynker Games
 - [Hopscotch]({{ site.baseurl }}{% post_url 2016-11-08-hopscotch %})
 - Minecraft Education Edition
-- Gamemaker
+- GameMaker
 - AgentCubes
 - TouchDevelop
 - Stencyl

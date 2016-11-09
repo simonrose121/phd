@@ -5,7 +5,6 @@ date:   2016-11-09 12:47:00 +0100
 categories: programming
 ---
 
-![Dash and Dot Blockly]({{ site.url }}{{ site.baseurl }}/assets/dashanddotblockly.jpg){:width="400px"}
 ![Dash and Dot]({{ site.url }}{{ site.baseurl }}/assets/dashanddot.png){:width="300px"}
 
 Dash and Dot are individual toy robots that help children learn to program.
@@ -15,6 +14,8 @@ Dash and Dot are individual toy robots that help children learn to program.
 - Multiple visual languages (in 5 different applications)
 	- Wonder
 		- No text (entirely visual language).
+		- Behaviour driven (linked behaviours making a state machine).
+		- Queues (actions between behaviours).
 		![Wonder]({{ site.url }}{{ site.baseurl }}/assets/wonder.jpg){:width="500px"}
 	- Path
 		- Direct Dash with a single "line" of code.
@@ -24,6 +25,8 @@ Dash and Dot are individual toy robots that help children learn to program.
 			- Variables
 			- Events
 			- Conditionals
+
+			![Dash and Dot Blockly]({{ site.url }}{{ site.baseurl }}/assets/dashanddotblockly.jpg){:width="500px"}
 	- Go
 		- Linked to dash (change colours).
 	- Xylo
