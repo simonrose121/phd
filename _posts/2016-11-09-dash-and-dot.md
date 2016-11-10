@@ -16,21 +16,26 @@ Dash and Dot are individual toy robots that help children learn to program.
 		- No text (entirely visual language).
 		- Behaviour driven (linked behaviours making a state machine).
 		- Queues (actions between behaviours).
+		- Introduces programming concepts such as conditionals.
 		![Wonder]({{ site.url }}{{ site.baseurl }}/assets/wonder.jpg){:width="500px"}
 	- Path
 		- Direct Dash with a single "line" of code.
 	- Blockly
 		- Scratch-like programming interface.
+		- Displays currently playing instruction.
 		- Advanced programming concepts
-			- Variables
+			- Variables (uses symbols instead of names).
 			- Events
 			- Conditionals
+			- Functions
 
 			![Dash and Dot Blockly]({{ site.url }}{{ site.baseurl }}/assets/dashanddotblockly.jpg){:width="500px"}
 	- Go
-		- Linked to dash (change colours).
+		- Control dot and dash (no program just controls and buttons).
 	- Xylo
 		- Musical
+
+		![Dash and Dot Xylo]({{ site.url }}{{ site.baseurl }}/assets/dashanddotxylo.jpg){:width="500px"}
 - Challenges
 	- Each app comes with specific challenges or a free play mode.
 - Accessories
@@ -39,3 +44,4 @@ Dash and Dot are individual toy robots that help children learn to program.
 	- Xylophone
 	- Bulldozer bars
 	- Bunny ears
+- Connect to phone via bluetooth
