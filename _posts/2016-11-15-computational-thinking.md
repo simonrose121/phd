@@ -2,7 +2,7 @@
 layout: post
 title:  "Computational Thinking"
 date:   2016-11-15 14:17:00 +0100
-categories: programming
+categories: computational-thinking
 ---
 
 Before going any further, it is important to define what computational thinking actually is. Is it a skill required only for programming? or does it transfer to other subject learning such as Science or Mathematics (STEM).
