@@ -34,11 +34,17 @@ The programming paradigms relevant to educational programming languages/environm
 	- Programming using evaluation of mathematical functions (telling computer what is needed) - avoiding changing state and mutable data.
 - Imperative
 	- Explicitly telling the computer what to do - contains state and mutable data.
+- Procedural
+	- Imperative programming with procedures.
 - Object-oriented programming
-	- Programming using objects, which have actions.
+	- Computation is effected by sending messages to objects, objects have state and behaviour.
+- Constraint
+	- Programmer specifies a set of constraints, and an engine infers the answers to questions.
 
 **Sources**
 
 Roy, P. Van, ‘Programming Paradigms for Dummies: What Every Programmer Should Know’, New Computational Paradigms for Computer Music, 2009, pp. 9–47, http://www.dmi.unict.it/~barba/PROG-LANG/PROGRAMMI-TESTI/READING-MATERIAL/VanRoyChapter.pdf.
 
 Hoare, C. A. R., ‘An Axiomatic Basis for Computer Programming’, Communications of the ACM, 12:10 (1969), pp. 576–580.
+
+[http://cs.lmu.edu/~ray/notes/paradigms/](http://cs.lmu.edu/~ray/notes/paradigms/)
