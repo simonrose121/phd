@@ -68,6 +68,8 @@ I have tried to categorise the tools I have reviewed in previous weeks in to pro
 - [Bee-bots]({{ site.baseurl }}{% post_url 2016-11-05-beebots %})
 - [ToonTalk]({{ site.baseurl }}{% post_url 2016-11-04-toontalk %})
 
+NOTE: Not sure about this, do all of these have state?
+
 *Imperative*
 
 - [Scratch]({{ site.baseurl }}{% post_url 2016-11-02-scratch %})
