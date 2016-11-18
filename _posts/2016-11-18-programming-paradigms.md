@@ -63,34 +63,36 @@ I have tried to categorise the tools I have reviewed in previous weeks in to pro
 
 *Functional*
 
-- Lightbot
-- Kodable
-- Bee-bot
-- ToonTalk
+- [Lightbot]({{ site.baseurl }}{% post_url 2016-11-05-lightbot %})
+- [Kodable]({{ site.baseurl }}{% post_url 2016-11-06-kodable %})
+- [Bee-bots]({{ site.baseurl }}{% post_url 2016-11-05-beebots %})
+- [ToonTalk]({{ site.baseurl }}{% post_url 2016-11-04-toontalk %})
 
 *Imperative*
 
-- Scratch
-- Scratch Jr
-- Hopscotch
-- Espresso Coding
+- [Scratch]({{ site.baseurl }}{% post_url 2016-11-02-scratch %})
+- [Scratch Jr]({{ site.baseurl }}{% post_url 2016-11-04-scratchjr %})
+- [Hopscotch]({{ site.baseurl }}{% post_url 2016-11-08-hopscotch %})
+- [Espresso Coding]({{ site.baseurl }}{% post_url 2016-11-06-espresso-coding %})
 
 *Procedural*
 
-- Snap!
-- Dash & Dot (Blockly & Wonder)
-- Logo
-- Stagecast Creator
+- Snap
+- [Dash & Dot (Blockly & Wonder)]({{ site.baseurl }}{% post_url 2016-11-09-dash-and-dot %})
+- [Turtle Logo]({{ site.baseurl }}{% post_url 2016-11-02-logo %})
+- [Stagecast Creator]({{ site.baseurl }}{% post_url 2016-11-05-stagecast-creator %})
 
 *Object-Oriented*
 
 - GameMaker
 
-It could be suggested that the lack of declarative tools is due to the neccessity of teaching flow of control, which is the order in which individual statements are executed.
+The lack of declerative tools indicates the neccessity of teaching flow of control, or the order in which individual statements are executed. This allows children to predict the outcome of certain tasks.
 
-Functional tools contains programming games Lightbot and Kodable, despite having programming concepts such as conditionals and procedures, they do not contain state (that can be viewed outside the robots position in space), or mutable data items.
+Functional tools contains programming games Lightbot and Kodable, despite having programming concepts such as conditionals and procedures, do not hold program state, or mutable data items.
 
-Imperative tools include Scratch and other programming tools that have state but not prodecures.
+Imperative tools include Scratch and other programming tools that have both state and data, along with the other common programming concepts.
+
+The procedural tools are imperative with the addition of procedures, which can be called to execute repeat behaviour. The only tool that provides true object-orientation (including inheritance and polymorphism) is GameMaker.
 
 **Sources**
 
