@@ -38,8 +38,48 @@ The programming paradigms relevant to educational programming languages/environm
 	- Imperative programming with procedures.
 - Object-oriented programming
 	- Computation is effected by sending messages to objects, objects have state and behaviour.
+	- Objects can inherit actions from other objects.
 - Constraint
 	- Programmer specifies a set of constraints, and an engine infers the answers to questions.
+
+Nondeterminism isn't found in educational programming environments due to it's unpredictability. Novice programmers (particularly children) find it a difficult to understand that an identical program do something different on each execution.
+
+State, which variables and mutable data, are included in environments such as Scratch. Dealing with data (and therefore state) is described as a key element of computational thinking.
+
+Some more complex environments, such as Snap! (Berkeley's procedural extension to Scratch) and Wonder Workshop's Blockly application for it's Dash and Dot robots allow the use of procedures.
+
+Concurrency is found in most educational programming environments. Blocks of code can be run on the same start event (mimicking concurrency, if not at a computational level) and event listeners can fire code simultaneously depending on the program structure. [ToonTalk]({{ site.baseurl }}{% post_url 2016-11-04-toontalk %}) uses the concurrent constraint paradigm, in which goals are satisfied concurrently (this interesting uses nondeterminism).
+
+**Categorisation of Tools**
+
+*Declerative*
+
+*Functional*
+
+- Lightbot
+- Kodable
+- Bee-bot
+- ToonTalk
+
+*Imperative*
+
+- Scratch
+- Scratch Jr
+- Hopscotch
+- Espresso Coding
+
+*Procedural*
+
+- Snap!
+- Dash & Dot (Blockly & Wonder)
+- Logo
+- Stagecast Creator
+
+*Object-Oriented*
+
+- GameMaker
+
+*Flow of control seems vitally important when building tools to teach programming.
 
 **Sources**
 
