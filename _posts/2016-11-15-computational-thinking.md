@@ -57,12 +57,14 @@ How does computational thinking relate to problem solving ability?
 
 **Sources**
 
+Kazakoff, E. R., A. Sullivan, and M. U. Bers, ‘The Effect of a Classroom-Based Intensive Robotics and Programming Workshop on Sequencing Ability in Early Childhood’, Early Childhood Education Journal, 41:4 (2013), pp. 245–255.
+
+Lye, S. Y., and J. H. L. Koh, ‘Review on Teaching and Learning of Computational Thinking through Programming: What Is next for K-12?’, Computers in Human Behavior, 41 (2014), pp. 51–61, http://dx.doi.org/10.1016/j.chb.2014.09.012.
+
 Wing, J. M., ‘Computational Thinking’, Communications of the Association for Computing Machinery (ACM), 49:3 (2006), pp. 33–35.
+
+Grover, S., and R. Pea, ‘Computational Thinking in K-12: A Review of the State of the Field’, Educational Researcher, 42:1 (2013), pp. 38–43, http://edr.sagepub.com/content/42/1/38\nhttp://www.sagepublications.com\nhttp://www.aera.net/reprints\nhttp://er.aera.net\nhttp://edr.sagepub.com/content/42/1/38.short.
 
 Barr, V., and C. Stephenson, ‘Bringing Computational Thinking to K-12’, ACM Inroads, 2:1 (2011), p. 48.
 
-Grover, S., and R. Pea, ‘Computational Thinking in K-12: A Review of the State of the Field’, Educational Researcher, 42:1 (2013), pp. 38–43
-
-Brennan, K., and M. Resnick, ‘New Frameworks for Studying and Assessing the Development of Computational Thinking’, Annual American Educational Research Association Meeting, Vancouver, BC, Canada, 2012, pp. 1–25, [http://web.media.mit.edu/~kbrennan/files/Brennan_Resnick_AERA2012_CT.pdf](http://web.media.mit.edu/~kbrennan/files/Brennan_Resnick_AERA2012_CT.pdf).
-
-Lye, S. Y., and J. H. L. Koh, ‘Review on Teaching and Learning of Computational Thinking through Programming: What Is next for K-12?’, Computers in Human Behavior, 41 (2014), pp. 51–61, [http://dx.doi.org/10.1016/j.chb.2014.09.012](http://dx.doi.org/10.1016/j.chb.2014.09.012).
+Brennan, K., and M. Resnick, ‘New Frameworks for Studying and Assessing the Development of Computational Thinking’, Annual American Educational Research Association Meeting, Vancouver, BC, Canada, 2012, pp. 1–25, http://web.media.mit.edu/~kbrennan/files/Brennan_Resnick_AERA2012_CT.pdf.
