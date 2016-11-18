@@ -9,9 +9,12 @@ Before diving in to programming paradigms, it's important to establish what comp
 
 A programming paradigm is a style or "way" of programming. I want to try and attempt to categorise educational programming environments using traditional programming paradigms.
 
-Peter van Roy categorised programming in to the following paradigms.
+Peter van Roy categorised programming in to the following paradigms:
+
 
 ![van Roy]({{ site.url }}{{ site.baseurl }}/assets/vanroy.jpg)
+
+**Key Features**
 
 The features relevant to educational programming that van Roy describes are as follows:
 
@@ -25,6 +28,16 @@ The features relevant to educational programming that van Roy describes are as f
 	- Amn independant module of code that fulfils a certain task and can be referenced from the main code.
 - Concurrency
 	- Performing more than one operation at one time.
+
+Nondeterminism isn't found in educational programming environments due to it's unpredictability. Novice programmers (particularly children) find it a difficult to understand that an identical program do something different on each execution.
+
+State, which variables and mutable data, are included in environments such as Scratch. Dealing with data (and therefore state) is described as a key element of computational thinking.
+
+Some more complex environments, such as Snap! (Berkeley's procedural extension to Scratch) and Wonder Workshop's Blockly application for it's Dash and Dot robots allow the use of procedures.
+
+Concurrency is found in most educational programming environments. Blocks of code can be run on the same start event (mimicking concurrency, if not at a computational level) and event listeners can fire code simultaneously depending on the program structure. [ToonTalk]({{ site.baseurl }}{% post_url 2016-11-04-toontalk %}) uses the concurrent constraint paradigm, in which goals are satisfied concurrently (this interesting uses nondeterminism).
+
+**Relevant Paradigms**
 
 The programming paradigms relevant to educational programming languages/environments.
 
@@ -42,15 +55,9 @@ The programming paradigms relevant to educational programming languages/environm
 - Constraint
 	- Programmer specifies a set of constraints, and an engine infers the answers to questions.
 
-Nondeterminism isn't found in educational programming environments due to it's unpredictability. Novice programmers (particularly children) find it a difficult to understand that an identical program do something different on each execution.
-
-State, which variables and mutable data, are included in environments such as Scratch. Dealing with data (and therefore state) is described as a key element of computational thinking.
-
-Some more complex environments, such as Snap! (Berkeley's procedural extension to Scratch) and Wonder Workshop's Blockly application for it's Dash and Dot robots allow the use of procedures.
-
-Concurrency is found in most educational programming environments. Blocks of code can be run on the same start event (mimicking concurrency, if not at a computational level) and event listeners can fire code simultaneously depending on the program structure. [ToonTalk]({{ site.baseurl }}{% post_url 2016-11-04-toontalk %}) uses the concurrent constraint paradigm, in which goals are satisfied concurrently (this interesting uses nondeterminism).
-
 **Categorisation of Tools**
+
+I have tried to categorise the tools I have reviewed in previous weeks in to programming paradigms (main article can be found [here]({{ site.baseurl }}{% post_url 2016-10-31-programming-tools %})).
 
 *Declerative*
 
@@ -79,7 +86,11 @@ Concurrency is found in most educational programming environments. Blocks of cod
 
 - GameMaker
 
-*Flow of control seems vitally important when building tools to teach programming.
+It could be suggested that the lack of declarative tools is due to the neccessity of teaching flow of control, which is the order in which individual statements are executed.
+
+Functional tools contains programming games Lightbot and Kodable, despite having programming concepts such as conditionals and procedures, they do not contain state (that can be viewed outside the robots position in space), or mutable data items.
+
+Imperative tools include Scratch and other programming tools that have state but not prodecures.
 
 **Sources**
 
