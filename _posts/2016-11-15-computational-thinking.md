@@ -2,7 +2,7 @@
 layout: post
 title:  "Computational Thinking"
 date:   2016-11-15 14:17:00 +0100
-categories: computational-thinking
+categories: learning
 ---
 
 Before going any further, it is important to define what computational thinking actually is. It is loosely defined as "thinking like a computer", so is it a skill required only for programming? or does it transfer to other subject learning such as Science or Mathematics (STEM).
@@ -51,9 +51,9 @@ Despite widespread literature suggesting that computational thinking should be a
 
 Additional concerns may include the teaching of these complex principles to younger children. Are they developed enough to be able to articulate these skills? or does this not matter, as long as they can perform tasks that incorperate these skills in another context?
 
-**Further Questions**
+**Computational Thinking & Problem Solving**
 
-How does computational thinking relate to problem solving ability?
+Problem solving is the ability to find solutions to problems in an orderly manor. As a skill it can be applied to many subjects including mathematics, science and engineering. Computational thinking can be described as a "problem solving tool" as it enables people to approach problems logically.
 
 **Sources**
 
