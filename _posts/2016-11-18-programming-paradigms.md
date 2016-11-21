@@ -68,8 +68,6 @@ I have tried to categorise the tools I have reviewed in previous weeks in to pro
 - [Bee-bots]({{ site.baseurl }}{% post_url 2016-11-05-beebots %})
 - [ToonTalk]({{ site.baseurl }}{% post_url 2016-11-04-toontalk %})
 
-NOTE: Not sure about this, do all of these have state?
-
 *Imperative*
 
 - [Scratch]({{ site.baseurl }}{% post_url 2016-11-02-scratch %})
@@ -95,6 +93,10 @@ Functional tools contains programming games Lightbot and Kodable, despite having
 Imperative tools include Scratch and other programming tools that have both state and data, along with the other common programming concepts.
 
 The procedural tools are imperative with the addition of procedures, which can be called to execute repeat behaviour. The only tool that provides true object-orientation (including inheritance and polymorphism) is GameMaker.
+
+**Further Questions**
+
+How do the programming paradigms relate to the pedagogy of the tools?
 
 **Sources**
 
