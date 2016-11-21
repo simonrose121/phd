@@ -39,6 +39,8 @@ Are young children able to learn using a constructionist approach? or do they fi
 
 Is individual or collaborative learning more effective when using these tools?
 
+How does the development of working memory (and possible lack of it) effect each pedagogy?
+
 **Sources**
 
 Johnson, G. M., ‘Instructionism and Constructivism: Reconciling Two Very Good Ideas’, International Journal of Special Education, 24:3 (2009), pp. 90–98.
