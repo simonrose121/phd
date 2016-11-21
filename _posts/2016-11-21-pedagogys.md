@@ -5,7 +5,7 @@ date:   2016-11-21 09:44:00 +0100
 categories: teaching
 ---
 
-Educational programming tools can be used to teach programming in many different ways. These pedagogys usually fall somewhere between two axis; instructionism vs constructivism and individual vs collaborative learning.
+Educational programming tools can be used to teach programming in many different ways. These pedagogys usually fall somewhere on these two axis; instructionism vs constructivism and individual vs collaborative learning.
 
 ![Pedagogies]({{ site.url }}{{ site.baseurl }}/assets/pedagogy.png){:width="400px"}
 
@@ -23,7 +23,7 @@ The epistomological reality of knowledge is that it is both subjective and objec
 
 **Individual**
 
-When working individually, "students work individually at their own level and rate toward an academic goal"* (Gokhale 1995).
+When working individually, *"students work at their own level and rate toward an academic goal"* (Gokhale 1995). The advantages of this approach are that the student is responsibile for their own learning.
 
 **Collaborative (Group)**
 
