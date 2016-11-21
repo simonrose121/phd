@@ -5,6 +5,8 @@ date:   2016-11-21 09:44:00 +0100
 categories: teaching
 ---
 
+Pedagogy - "the method and practice of teaching, especially as an academic subject or theoretical concept"
+
 Educational programming tools can be used to teach programming in many different ways. These pedagogys usually fall somewhere on these two axis; instructionism vs constructivism and individual vs collaborative learning.
 
 ![Pedagogies]({{ site.url }}{{ site.baseurl }}/assets/pedagogy.png){:width="400px"}
@@ -29,7 +31,7 @@ When working individually, *"students work at their own level and rate toward an
 
 *"An instruction method in which students work in groups toward a common academic goal"* (Gokhale 1995). Cognitive load theory states that humans have both long term and working memory. Children develop their working memory as they get older, and are able to hold more and more information relating to a specific problem in their heads. Collaborative learning can assist in helping learners with weak working memory skills. An idea closely coupled with group cognition and even distributed cognition theory.
 
-### Pedagogical Approaches
+### Pedagogical Approaches using Programming Tools
 
 Seymour Papert defined constructionism as "learning by making, inventing, doing and creating". Logo and the tools that it inspired, such as Scratch, exemplify this pedagogical approach. However, educational programming tools like this can also be used with other pedagogical approaches. Although Scratch was designed based on constructivist principles, it can (and often is) used with an instructivist pedagogy in education. In a traditional classroom setting (teacher directing the class from the front), students are given set instructions to follow on their individual Scratch programs. Any mistakes are corrected and each program is identical to the next. This approach is also taken by tools such as Espresso Coding and Purple Mash that use the block-based programming of Scratch but supply the content in an instructionist fashion, limiting the student to learning each concept in a structured format. Programs are created in each lesson, and have to be adjusted until they have reached the "correct" solution.
 
