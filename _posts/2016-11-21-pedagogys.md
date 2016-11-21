@@ -29,7 +29,11 @@ When working individually, "students work individually at their own level and ra
 
 *"An instruction method in which students work in groups toward a common academic goal."* (Gokhale 1995)
 
-The combination of these approaches if referred to as Blended learning.
+### Pedagogy for Programming Tools
+
+**Scratch**
+
+Educational programming tools like Scratch can be used in line with each of these pedagogical approaches. Although Scratch was designed based on constructivist learning, it can (and often is) used with an instructivist pedagogy. In a traditional classroom setting (teacher directing the class from the front), students are given set instructions to follow on their individual Scratch programs. Any mistakes are corrected and each program is identical to the next. This approach is also taken by tools such as Code Espresso and Purple Mash that use block-based programming and supply the content in an instructionist fashion, by allowing the student to keep adjusting their program until they have reached the "correct" solution.
 
 **Sources**
 
