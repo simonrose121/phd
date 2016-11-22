@@ -23,7 +23,7 @@ Wider reading around how children think and learn will hopefully help me write a
 
 **Analogical reasoning**
 
-Analogoical reasoning is a type of inductive reasoning that relies on an analogy. An analogy is a comparison between two objects or systems of objects that highlights respects in which they are similar.
+Analogoical reasoning is a type of inductive reasoning that relies on an analogy. An analogy is a comparison between two objects or systems of objects that highlights respects in which they are similar. "Analogy is a conceptual strategy enabling children to make inferences about novel phenomena, to transfer learning across contexts, and to extract relevant information from everyday learning experiences on the basis of relational similarity" (Richland, Morrison and Holyoak 2006).
 
 It is suggested that analogical reasoning contains 6 steps (2 of which are optional):
 
@@ -40,10 +40,12 @@ It is suggested that analogical reasoning contains 6 steps (2 of which are optio
 - Response
 	- Communicating a response
 
-The process relies on the child being able to hold part A of the analogy in working memory. If she has underdeveloped working memory, this may be difficult. Children answering quasi-analogies such as "a bird is to air, as a fish is to ____" showed no improvement as they got older. But did show an improvement in answering mathematical questions using normal analogies (Sternberg and Bifkin 1979).
+The process relies on the child being able to hold part A of the analogy in working memory. If she has underdeveloped working memory, this may be difficult. Children answering quasi-analogies such as "a bird is to air, as a fish is to ____" showed no improvement as they got older. But did show an improvement in answering mathematical questions using normal analogies (Sternberg and Bifkin 1979). This improvement could be linked to Piaget's staged and the development of formal operations, such as analogical reasoning skills. However, younger children with domain knowledge can also demonstrate analogical thinking (Goswami and Brown 1990).
 
 **Sources**
 
 Richland, L. E., R. G. Morrison, and K. J. Holyoak, ‘Children’s Development of Analogical Reasoning: Insights from Scene Analogy Problems’, Journal of Experimental Child Psychology, 94:3 (2006), pp. 249–273.
 
 Sternberg, R. J., and B. Rifkin, ‘The Development of Analogical Reasoning Processes’, Journal of Experimental Child Psychology, 27:2 (1979), pp. 195–232.
+
+Goswami, U., and A. L. Brown, ‘Melting Chocolate and Melting Snowmen: Analogical Reasoning and Causal Relations’, Cognition, 35:1 (1990), pp. 69–95.
