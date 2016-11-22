@@ -5,7 +5,7 @@ date:   2016-11-22 10:47:00 +0100
 categories: learning
 ---
 
-Wider reading around how children think and learn will hopefully help me write a valuable and informed review of current literature. It may should also help cement what I want to focus on for my PhD.
+Wider reading around how children think and learn will hopefully help me write a valuable and informed review of current literature. It may should also help cement a focus for my PhD.
 
 **Learning mathematics**
 
@@ -15,17 +15,16 @@ Wider reading around how children think and learn will hopefully help me write a
 
 - Linking it to mathematical thinking
 
-**Educational models for children's learning**
-
 **Logo**
 
 - Discovery learning
+- Related literature to teaching using the logo programming environment
 
 **Analogical reasoning**
 
 Analogoical reasoning is a type of inductive reasoning that relies on an analogy. An analogy is a comparison between two objects or systems of objects that highlights respects in which they are similar. "Analogy is a conceptual strategy enabling children to make inferences about novel phenomena, to transfer learning across contexts, and to extract relevant information from everyday learning experiences on the basis of relational similarity" (Richland, Morrison and Holyoak 2006).
 
-It is suggested that analogical reasoning contains 6 steps (2 of which are optional):
+It is suggested that analogical reasoning contains 6 steps (2 of which are *optional*):
 
 - Encoding
 	- Storing possibly relevant attributes and values of the analogy in working memory.
