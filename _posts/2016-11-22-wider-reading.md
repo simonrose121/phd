@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wider Reading"
+title:  "Wider Reading - How Children Learn"
 date:   2016-11-22 10:47:00 +0100
 categories: learning
 ---
@@ -109,13 +109,30 @@ Ginsburg, H. P., and M. Amit, ‘What Is Teaching Mathematics to Young Children?
 
 ### Algorithmic thinking
 
-The Oxford dictionary definition of an algorithm is "a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer." Despite being a concept linked primarily to computer science, Knuth (1985) argues that it is also applicable to mathematics.
+The Oxford dictionary definition of an algorithm is "a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer." Despite being a concept linked primarily to computer science, Knuth (1985) argues that alrgorithmic thinking is also applicable to subjects such as mathematics.
+
+Research by Futschek and Moschitz describes an approach to teaching algorithmic thinking skills to young children using a tangibles to virtual environment (Scratch) progression (2011). This focuses on developing abstract thinking skills that are also key to computational thinking (Wing 2006). They do this using kinesthetic elements of learning (touch, sight, hearing, feeling and smelling).
+
+In the paper, they list some basic algorithmic concepts:
+
+- Basic commands
+- Sequence of commands
+- Alternative of commands (if)
+- Iteration of commands (loop)
+- Abstraction command (procedures)
 
 **Sources**
 
 Knuth, D. E., ‘Algorithmic Thinking and Mathematical Thinking’, The American Mathematical Monthly, 92:3 (1985), pp. 170–181, http://www.jstor.org/stable/2975131.
 
+Futschek, G., and J. Moschitz, ‘Learning Algorithmic Thinking with Tangible Objects Eases Transition to Computer Programming’, Lecture Notes in Computer Science (Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 7013 LNCS (2011), pp. 155–164.
+
 ### Logo
 
 - Discovery learning
 - Related literature to teaching using the logo programming environment
+
+### Common Themes
+
+- Working memory (can children hold sufficient information in their heads in order to solve problems?)
+- Abstraction (establishing new levels of complexity than can be applied to multiple concepts)
