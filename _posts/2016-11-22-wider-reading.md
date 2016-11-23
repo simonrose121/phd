@@ -99,7 +99,7 @@ Literature in this area covers ground in to teaching maths in a developmentally 
 
 A paper written by Ginsburg and Amit (2008) describes an approach to teaching mathematics to young children (aged 3-6). There ethnographic study observes a teacher and describes the content and outcome of her lessons. The study describes the concept of mapping, which describes "the idea that the three-dimensional world can be projected onto and represented by a two-dimensional surface. In effect, children have to imagine that they are looking down at the world from above". This involves concepts of *abstraction* and *projection*, similar concepts which are found in the popular flash game Lightbot which aims to teach programming principles.
 
-Limitations of working memory when learning mathematics have been studied by Passolunghi and Siegel (2001). They found that children with limited working memory struggled when performing arithmetic problem solving excercises where they were required to hold numbers in their heads.
+Limitations of working memory when learning mathematics have been studied by Passolunghi and Siegel (2001). They found evidence to suggest that children with limited working memory struggled when performing arithmetic problem solving excercises. This is due to their inability to retain numerical information in working memory. Other studies have suggested that the deficit is focused on a deficit in remembering numerical information, and not on working memory in general.
 
 **Sources**
 
