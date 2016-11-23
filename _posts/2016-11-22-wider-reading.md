@@ -36,7 +36,7 @@ Sternberg, R. J., and B. Rifkin, ‘The Development of Analogical Reasoning Proc
 
 Goswami, U., and A. L. Brown, ‘Melting Chocolate and Melting Snowmen: Analogical Reasoning and Causal Relations’, Cognition, 35:1 (1990), pp. 69–95.
 
-### Young children learning maths
+### Young children's learning of mathematics
 
 Literature in this area covers ground in to teaching maths in a developmentally appropriate way, covering issues such as the limited working memory of young children. The UK national curriculum states that in KS1 children should be taught the following skills (bold are those that are directly relatable to programming):
 
@@ -131,6 +131,20 @@ Futschek, G., and J. Moschitz, ‘Learning Algorithmic Thinking with Tangible Ob
 
 - Discovery learning
 - Related literature to teaching using the logo programming environment
+
+**Sources**
+
+Mayer, R. E., ‘Should There Be a Three-Strikes Rule Against Pure Discovery Learning? The Case for Guided Methods of Instruction’, American Psychologist, 59:1 (2004), pp. 14–19.
+
+Clements, D. H., ‘Metacomponential Development in a Logo Programming Environment.’, Journal of Educational Psychology, 82:1 (1990), pp. 141–149, http://search.ebscohost.com/login.aspx?direct=true&db=pdh&AN=edu-82-1-141&lang=zh-tw&site=ehost-live.
+
+Fessakis, G., E. Gouli, and E. Mavroudi, ‘Problem Solving by 5-6 Years Old Kindergarten Children in a Computer Programming Environment: A Case Study’, Computers and Education, 63 (2013), pp. 87–97.
+
+Pea, R. D., ‘Logo Programming and Problem Solving’, Conference Paper, 150:ir 014 383 (1983), pp. 1–10.
+
+Noss, R., ‘Constructing a Conceptual Framework for Elementary Algebra through Logo Programming’, Educational Studies in Mathematics, 17:4 (1986), pp. 335–357.
+
+Horn, M. S., E. T. Solovey, R. J. Crouser, and R. J. K. Jacob, ‘Comparing the Use of Tangible and Graphical Programming Languages for Informal Science Education’, Proceedings of the 27th International Conference on Human Factors in Computing Systems CHI 09, 32 (2009), p. 975, http://portal.acm.org/citation.cfm?doid=1518701.1518851.
 
 ### Common Themes
 
