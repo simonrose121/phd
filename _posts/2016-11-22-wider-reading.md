@@ -26,7 +26,7 @@ It is suggested that analogical reasoning contains 6 steps (2 of which are *opti
 - Response
 	- Communicating a response
 
-The process relies on the child being able to hold part A of the analogy in working memory. If she has underdeveloped working memory, this may be difficult. Children answering quasi-analogies such as "a bird is to air, as a fish is to ____" showed no improvement as they got older. But did show an improvement in answering mathematical questions using normal analogies (Sternberg and Bifkin 1979). This improvement could be linked to Piaget's staged and the development of formal operations, which includes analogical reasoning skills. However, younger children with domain knowledge can also demonstrate analogical thinking (Goswami and Brown 1990).
+The process relies on the child being able to hold part A of the analogy in working memory. If she has underdeveloped working memory, this may be difficult. Children answering quasi-analogies such as "a bird is to air, as a fish is to ____" showed no improvement as they got older. But did show an improvement in answering mathematical questions using normal analogies (Sternberg and Bifkin 1979). This improvement could be linked to Piaget's staged and the development of formal operations, which includes analogical reasoning skills. However, younger children with domain knowledge can also demonstrate analogical thinking (Goswami and Brown 1990). Clements suggests that young children tend to use association instead of mapping when given analogical problems to solve.
 
 **Sources**
 
