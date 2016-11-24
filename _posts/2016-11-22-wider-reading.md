@@ -83,7 +83,7 @@ Literature in this area covers ground in to teaching maths in a developmentally 
 		- Communtative addition and uncommuntative subtraction
 		- Inverse relationship of addition and subtraction
 	- Multiplication and division
-		- Calculate multiplication and division using tables and use symbols (x, ÷, =)
+		- **Calculate multiplication and division using tables and use symbols (x, ÷, =)**
 		- Communtative multiplication and uncommuntative division
 	- Fractions
 		- Recognise and write fractions
@@ -135,7 +135,7 @@ Pea conducted research in 1985 focusing on whether Logo is effective for improvi
 
 Mayer uses previous studies with Logo to critique discovery-learning (2004). He suggests that pure discovery methods, where children are not given any help by the teacher, are ineffective and that instead we should be teaching using guided discovery. Therefore combining instructionist and constructivist approaches to give leaners appropriate freedom to find answers for themselves whilst being guided by the teacher. This approach was defined by Bruner as "Scaffolding". He goes on to reference Pea (and other researchers) who suggest that Logo is ineffective when used in a pure discovery environment.
 
-However, there is contradicting research that suggests Logo does improve cognitive ability (Clements 1990). Clements focuses on using Logo to develop metacomponential ability, which are "executive processes that control the operation of the system as a whole and plan and evaluate all information processing" (1990, p141). Or the role in which learners cognitively monitor their own learning. He finds that third grade Logo users score significantly higher on these abilities after using Logo.
+However, there is contradicting research that suggests Logo does improve cognitive ability (Clements 1990). Clements focuses on using Logo to develop metacomponential ability, which are "executive processes that control the operation of the system as a whole and plan and evaluate all information processing" (1990, p141). Or the role in which learners cognitively monitor their own learning. He finds that third grade Logo users score significantly higher on these abilities after using Logo compared those who have not.
 
 **Sources**
 
@@ -155,3 +155,5 @@ Horn, M. S., E. T. Solovey, R. J. Crouser, and R. J. K. Jacob, ‘Comparing the 
 
 - Working memory (can children hold sufficient information in their heads in order to solve problems?)
 - Abstraction (establishing new levels of complexity than can be applied to multiple contexts)
+- Guided discovery (a combination of instructionist and constuctivist approaches)
+- Top-down and bottom-up programming approaches
