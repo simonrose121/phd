@@ -131,8 +131,11 @@ Futschek, G., and J. Moschitz, ‘Learning Algorithmic Thinking with Tangible Ob
 
 ### Logo
 
-- Discovery learning
-- Related literature to teaching using the logo programming environment
+Pea conducted research in 1985 focusing on whether Logo is effective for improving problem solving ability and programming knowledge in children. He found no difference in ability using a pretest-posttest design between children who had used Logo and those that hadn't. The paper goes on to state that "transfer of problem-solving strategies between dissimilar problems, or problems of different content, is notoriously difficult to achieve even for adults" (1985, p6). This is arguably similar to abstraction, which is a key tenet of computational thinking. Furthermore, Pea suggests children do not pre-plan Logo programs. Prefering to follow an arguable bricolage (bottom-up) approach.
+
+Mayer uses previous studies with Logo to critique discovery-learning (2004). He suggests that pure discovery methods, where children are not given any help by the teacher, are ineffective and that instead we should be teaching using guided discovery. Therefore combining instructionist and constructivist approaches to give leaners appropriate freedom to find answers for themselves whilst being guided by the teacher. This approach was defined by Bruner as "Scaffolding". He goes on to reference Pea (and other researchers) who suggest that Logo is ineffective when used in a pure discovery environment.
+
+However, there is contradicting research that suggests Logo does improve cognitive ability (Clements 1990). Clements focuses on using Logo to develop metacomponential ability, which are "executive processes that control the operation of the system as a whole and plan and evaluate all information processing" (1990, p141). Or the role in which learners cognitively monitor their own learning. He finds that third grade Logo users score significantly higher on these abilities after using Logo.
 
 **Sources**
 
