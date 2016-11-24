@@ -129,7 +129,7 @@ Knuth, D. E., ‘Algorithmic Thinking and Mathematical Thinking’, The American
 
 Futschek, G., and J. Moschitz, ‘Learning Algorithmic Thinking with Tangible Objects Eases Transition to Computer Programming’, Lecture Notes in Computer Science (Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 7013 LNCS (2011), pp. 155–164.
 
-### Logo
+### Logo & Discovery Learning
 
 Pea conducted research in 1985 focusing on whether Logo is effective for improving problem solving ability and programming knowledge in children. He found no difference in ability using a pretest-posttest design between children who had used Logo and those that hadn't. The paper goes on to state that "transfer of problem-solving strategies between dissimilar problems, or problems of different content, is notoriously difficult to achieve even for adults" (1985, p6). This is arguably similar to abstraction, which is a key tenet of computational thinking. Furthermore, Pea suggests children do not pre-plan Logo programs. Prefering to follow an arguable bricolage (bottom-up) approach.
 
