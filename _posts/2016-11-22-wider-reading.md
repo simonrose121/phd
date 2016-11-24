@@ -107,6 +107,8 @@ Passolunghi, M. C., and L. S. Siegel, ‘Short-Term Memory, Working Memory, and 
 
 Ginsburg, H. P., and M. Amit, ‘What Is Teaching Mathematics to Young Children? A Theoretical Perspective and Case Study’, Journal of Applied Developmental Psychology, 29:4 (2008), pp. 274–285.
 
+Weintrop, D., E. Beheshti, M. Horn, K. Orton, K. Jona, L. Trouille, and U. Wilensky, ‘Defining Computational Thinking for Mathematics and Science Classrooms’, Journal of Science Education and Technology, 25:1 (2016), pp. 127–147, "http://dx.doi.org/10.1007/s10956-015-9581-5.
+
 ### Algorithmic thinking
 
 The Oxford dictionary definition of an algorithm is "a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer." Despite being a concept linked primarily to computer science, Knuth (1985) argues that alrgorithmic thinking is also applicable to subjects such as mathematics.
@@ -149,4 +151,4 @@ Horn, M. S., E. T. Solovey, R. J. Crouser, and R. J. K. Jacob, ‘Comparing the 
 ### Common Themes
 
 - Working memory (can children hold sufficient information in their heads in order to solve problems?)
-- Abstraction (establishing new levels of complexity than can be applied to multiple concepts)
+- Abstraction (establishing new levels of complexity than can be applied to multiple contexts)
