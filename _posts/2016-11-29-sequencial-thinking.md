@@ -31,7 +31,9 @@ related". Sequencing activities are defined in curriculums worldwide in both the
 
 Most programming games suitable for young children (such as Lightbot, Kodable, etc) are based on providing a sequence of instructions for a robot (or other object) to perform. Researches have provided frameworks to measure the ability of these games to develop computational thinking (e.g. Gouws, Bradshaw and Wentworth 2013). It would be interesting to see if these games can develop sequential thinking skills in young children.
 
-A study along these lines was carried out by Kazakoff, Sullivan and Bers
+**The Effect of a Classroom-Based Intensive Robotics and Programming Workshop on Sequencing Ability in Early Childhood**
+
+A study along these lines was carried out by Kazakoff, Sullivan and Bers.
 
 **Sources**
 
