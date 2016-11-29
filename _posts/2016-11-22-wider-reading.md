@@ -145,6 +145,8 @@ Clements, D. H., ‘Metacomponential Development in a Logo Programming Environme
 
 Fessakis, G., E. Gouli, and E. Mavroudi, ‘Problem Solving by 5-6 Years Old Kindergarten Children in a Computer Programming Environment: A Case Study’, Computers and Education, 63 (2013), pp. 87–97.
 
+Kazakoff, E. R., A. Sullivan, and M. U. Bers, ‘The Effect of a Classroom-Based Intensive Robotics and Programming Workshop on Sequencing Ability in Early Childhood’, Early Childhood Education Journal, 41:4 (2013), pp. 245–255.
+
 Pea, R. D., ‘Logo Programming and Problem Solving’, Conference Paper, 150:ir 014 383 (1983), pp. 1–10.
 
 Noss, R., ‘Constructing a Conceptual Framework for Elementary Algebra through Logo Programming’, Educational Studies in Mathematics, 17:4 (1986), pp. 335–357.

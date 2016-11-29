@@ -43,12 +43,6 @@ Brennan and Resnick categorised CT in to three different paradigms (using Scratc
 	- Questioning (the world around them)
 	- Expressing ("I can create")
 
-Despite widespread literature suggesting that computational thinking should be an essential part of curricula, there are still some concerns surrounding it's introduction:
-
-- Do all children need to learn computational competancy even if they have no interest in a career in STEM?
-- Is there spaced in an already packed curriculum?
-- Lack of clarity over what it is means there isn't a set way to teach it
-
 Seiter and Foreman attempt to provide a framework, the Progression of Early Computational Thinking, for introducing computational thinking concepts to primary age students (2013). They highlight the limited formal research in to how computational thinking skills develop in primary age children, and focus on the need for formal assessment of computational thinking ability.  The framework has three seperate components of decreasing abstraction:
 
 - Computational thinking concepts
@@ -78,7 +72,15 @@ Seiter and Foreman attempt to provide a framework, the Progression of Early Comp
 	- Parallelization
 	- Initialisation of location and appearance
 
-This framework is in many ways similar to that defined by Brennan and Resnick. The ideas of problem decomposition and abstraction are interesting due to evidence that younger children struggle with these principles. There is also a growing amount of literature relating to computational thinking  and its role in higher education (e.g. Weintrop et al 2016). Additional concerns may include the teaching of these complex principles to younger children. Are they developed enough to be able to articulate these skills? or does this not matter, as long as they can perform tasks that incorperate these skills in another context?
+This framework is in many ways similar to that defined by Brennan and Resnick. The ideas of problem decomposition and abstraction are interesting due to evidence that younger children struggle with these principles. There is also a growing amount of literature relating to computational thinking  and its role in higher education (e.g. Weintrop et al 2016).
+
+Despite widespread literature suggesting that computational thinking should be an essential part of curricula, there are still some concerns surrounding it's introduction:
+
+- Do all children need to learn computational competancy even if they have no interest in a career in STEM?
+- Is there spaced in an already packed curriculum?
+- Lack of clarity over what it is means there isn't a set way to teach it
+
+Additional concerns may include the teaching of these complex principles to younger children. Are they developed enough to be able to articulate these skills? or does this not matter, as long as they can perform tasks that incorperate these skills in another context?
 
 **Computational Thinking & Problem Solving**
 
