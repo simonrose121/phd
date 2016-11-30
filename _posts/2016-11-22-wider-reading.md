@@ -20,7 +20,7 @@ It is suggested that analogical reasoning contains 6 steps (2 of which are *opti
 - *Mapping*
 	- Linking the domain to the range by discovering the relation between A and C.
 - Application
-	- Applying the attibutes and values to decide which further object matches C.
+	- Applying the attributes and values to decide which further object matches C.
 - *Justification*
 	- In a situation where two possible options are available, the child may justify their decision.
 - Response
@@ -47,7 +47,7 @@ Literature in this area covers ground in to teaching maths in a developmentally 
 	- Reading & writing numbers
 	- Using number lines
 	- Addition and subtraction
-		- **Read, write and intepret mathematical statements (+, -, =)**
+		- **Read, write and interpret mathematical statements (+, -, =)**
 		- Use number bonds (memorised addition sums)
 		- Add and subtract one digit and two digit numbers to 20
 		- Solve one step problems using concrete objects, pictorial representations and arrays
@@ -111,7 +111,7 @@ Weintrop, D., E. Beheshti, M. Horn, K. Orton, K. Jona, L. Trouille, and U. Wilen
 
 ### Algorithmic thinking
 
-The Oxford dictionary definition of an algorithm is "a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer." Despite being a concept linked primarily to computer science, Knuth (1985) argues that alrgorithmic thinking is also applicable to subjects such as mathematics.
+The Oxford dictionary definition of an algorithm is "a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer." Despite being a concept linked primarily to computer science, Knuth (1985) argues that algorithmic thinking is also applicable to subjects such as mathematics.
 
 Research by Futschek and Moschitz describes an approach to teaching algorithmic thinking skills to young children using a tangibles to virtual environment (Scratch) progression (2011). This focuses on developing abstract thinking skills that are also key to computational thinking (Wing 2006). They do this using kinesthetic elements of learning (touch, sight, hearing, feeling and smelling).
 
@@ -131,7 +131,7 @@ Futschek, G., and J. Moschitz, ‘Learning Algorithmic Thinking with Tangible Ob
 
 ### Logo & Discovery Learning
 
-Pea conducted research in 1985 focusing on whether Logo is effective for improving problem solving ability and programming knowledge in children. He found no difference in ability using a pretest-posttest design between children who had used Logo and those that hadn't. The paper goes on to state that "transfer of problem-solving strategies between dissimilar problems, or problems of different content, is notoriously difficult to achieve even for adults" (1985, p6). This is arguably similar to abstraction, which is a key tenet of computational thinking. Furthermore, Pea suggests children do not pre-plan Logo programs. Prefering to follow an arguable bricolage (bottom-up) approach.
+Pea conducted research in 1985 focusing on whether Logo is effective for improving problem solving ability and programming knowledge in children. He found no difference in ability using a pretest-posttest design between children who had used Logo and those that hadn't. The paper goes on to state that "transfer of problem-solving strategies between dissimilar problems, or problems of different content, is notoriously difficult to achieve even for adults" (1985, p6). This is arguably similar to abstraction, which is a key tenet of computational thinking. Furthermore, Pea suggests children do not pre-plan Logo programs. Preferring to follow an arguable bricolage (bottom-up) approach.
 
 Mayer uses previous studies with Logo to critique discovery-learning (2004). He suggests that pure discovery methods, where children are not given any help by the teacher, are ineffective and that instead we should be teaching using guided discovery. Therefore combining instructionist and constructivist approaches to give leaners appropriate freedom to find answers for themselves whilst being guided by the teacher. This approach was defined by Bruner as "Scaffolding". He goes on to reference Pea (and other researchers) who suggest that Logo is ineffective when used in a pure discovery environment.
 
