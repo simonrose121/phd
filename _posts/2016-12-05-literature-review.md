@@ -9,7 +9,7 @@ Having explored the area surrounding my research, it would be logical to write a
 
 This first step is to look at existing reviews of the area of computational thinking in education. The reviews largely focus on a) what is involved in computational thinking (core skills or competencies), b) how should we be teaching computational thinking in education.
 
-**No Patterns in Pattern Recognition : A Systematic Literature Review. (2016)**
+**No Patterns in Pattern Recognition : A Systematic Literature Review. (2016) - Annwesa Dasgupta**
 
 The review begins by highlighting the need to operationalise definitions and competencies for computational thinking. Using three "notable" reports on computational thinking (Barr & Stephenson, 2011, CSTA, 2011 and Barendsen & Stoker, 2013), the authors have created a diagram to show core computational thinking competencies at undergraduate and K-12 levels.
 
@@ -17,7 +17,7 @@ The review begins by highlighting the need to operationalise definitions and com
 
 The authors aim is to show that pattern recognition should be including in these competencies. They found articles that suggest pattern recognition is a "foundation for other high level competencies". However, this result was only from two articles they found.
 
-**A Framework for Computational Thinking Based on a Systematic Research Review (2016)**
+**A Framework for Computational Thinking Based on a Systematic Research Review (2016) - Kalelioglu, Gulbahar & Kukul**
 
 This review by Kalelioglu, Gulbahar and Kukul aims to synthesise literature on computational thinking in order to create a framework containing the "notion, scope and elements of CT" (2016, p583). They start by creating a wordle using well-known definitions of CT, this shows that abstraction, problem solving and thinking are key words that authors use.
 
@@ -69,13 +69,14 @@ The idea of this framework is that it can be used to aid teaching and assessment
 
 This framework is definitely of interest, the authors describe it as scalable, but can it be scaled down to meet the needs of younger children? And does current teaching of computational thinking fit the framework? The mention of problem-solving opens up the area of how children generally solve problems at a young age, crossing over with educational theorists like Piaget and Vygotksy.
 
-**Computational Thinking in K-12: A Review of the State of the Field. (2013)**
+**Review on teaching and learning of computational thinking through programming: What is next for K-12? (2014) - Lye & Koh**
 
-
-
-**Review on teaching and learning of computational thinking through programming: What is next for K-12? (2014)**
+Lye & Koh begin their abstract by stating that there is a differentiation between programming and coding. Programming exposes students to computational thinking concepts which involve problem solving (linking in with Kalelioglu, Gulbahar & Kukul), whereas coding is the process of writing computer programs.
 
 **A review of models for introducing computational thinking, computer science and computing in K-12 education. (2016)**
+
+
+
 
 **Sources**
 
