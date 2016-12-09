@@ -100,7 +100,17 @@ Reviewing how different countries (10 in total) have introduced computer science
 
 Of the 10 countries reviewed, 7 countries have computers science in some form as compulsory in primary education. Only South Korea, England and Poland have computer science as it's own subject in primary education.
 
-**Computing Education in K-12 Schools: A Review of the Literature**
+**Computing Education in K-12 Schools: A Review of the Literature (2015)**
+
+The authors review 47 peer-reviewed articles. They analyse the papers for instructional methods and programming tools used in computing education.
+
+They found 33 different programming tools used in these 47 papers.
+
+Popular instructional methods included game design, and tangible construction kits or robotics. Problem - project based approaches are used where students implement their knowledge by solving a problem or creating a project. They suggest that remixing and modifying other projects can help deal with issues surrounding constructionist approaches.
+
+*Summary*
+
+Research in the field uses a lot of different programming tools and instructional approaches. Deciding on the best approach requires an analysis of the classroom environment and the learners.
 
 **Sources**
 
