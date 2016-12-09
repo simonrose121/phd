@@ -9,6 +9,8 @@ Having explored the area surrounding my research, it would be logical to write a
 
 This first step is to look at existing reviews of the area of computational thinking in education. The reviews largely focus on a) what is involved in computational thinking (core skills or competencies), b) how should we be teaching computational thinking in education.
 
+### Reviews
+
 **No Patterns in Pattern Recognition : A Systematic Literature Review. (2016) - Annwesa Dasgupta**
 
 The review begins by highlighting the need to operationalise definitions and competencies for computational thinking. Using three "notable" reports on computational thinking (Barr & Stephenson, 2011, CSTA, 2011 and Barendsen & Stoker, 2013), the authors have created a diagram to show core computational thinking competencies at undergraduate and K-12 levels.
@@ -111,6 +113,17 @@ Popular instructional methods included game design, and tangible construction ki
 *Summary*
 
 Research in the field uses a lot of different programming tools and instructional approaches. Deciding on the best approach requires an analysis of the classroom environment and the learners.
+
+### Summary
+
+Current literature reviews in the area focus on the following aspects of computational thinking:
+
+- Definitions of what it is and what it contains (its core competencies).
+- Computational thinking as a problem solving process.
+- Cross-domain transfer (application in other concepts other than computer science).
+- Tools and instructional approaches.
+
+As of yet, there is no literature review that focuses entirely on computational thinking and young learners. All of these reviews focus on K-12, which ranges from 4-6 to 17-19. The lack of studies in this area is highlighted by reviews above, despite some countries beginning to teach computational thinking skills to children as young as 4 years old. This justifies a need for a literature review (stand alone or part of a larger study) that summarises papers in the area and justifies a need for more studies (and the specific nature of these).
 
 **Sources**
 
