@@ -17,6 +17,10 @@ The review begins by highlighting the need to operationalise definitions and com
 
 The authors aim is to show that pattern recognition should be including in these competencies. They found articles that suggest pattern recognition is a "foundation for other high level competencies". However, this result was only from two articles they found.
 
+*Summary*
+
+Computational thinking competencies should include pattern recognition.
+
 **A Framework for Computational Thinking Based on a Systematic Research Review (2016) - Kalelioglu, Gulbahar & Kukul**
 
 This review by Kalelioglu, Gulbahar and Kukul aims to synthesise literature on computational thinking in order to create a framework containing the "notion, scope and elements of CT" (2016, p583). They start by creating a wordle using well-known definitions of CT, this shows that abstraction, problem solving and thinking are key words that authors use.
@@ -40,6 +44,7 @@ Common defined features that form the scope of CT:
 They also found that most papers produced on computational thinking were idea papers, with no research design. Therefore they believe there is no in-depth research about the concept, and no accepted or well-known definition of CT that has been scientifically proven. They then question how to teach CT, stating that assessment is a key area and how we actually assess computational thinking ability?
 
 Roadmap for computational thinking as a problem-solving process:
+
 *Identify the problem*
 - Abstraction
 - Decomposition
@@ -69,14 +74,33 @@ The idea of this framework is that it can be used to aid teaching and assessment
 
 This framework is definitely of interest, the authors describe it as scalable, but can it be scaled down to meet the needs of younger children? And does current teaching of computational thinking fit the framework? The mention of problem-solving opens up the area of how children generally solve problems at a young age, crossing over with educational theorists like Piaget and Vygotksy.
 
+*Summary*
+
+A framework that can be used to assess computational thinking as a problem-solving skill.
+
 **Review on teaching and learning of computational thinking through programming: What is next for K-12? (2014) - Lye & Koh**
 
 Lye & Koh begin their abstract by stating that there is a differentiation between programming and coding. Programming exposes students to computational thinking concepts which involve problem solving (linking in with Kalelioglu, Gulbahar & Kukul), whereas coding is the process of writing computer programs.
 
+They selected 27 articles for their literature review, concentrating on computational thinking in K-12. They categorised the studies using Brennan and Resnick's computational concepts, practices and perspectives. Interestingly, they only found two studies on computational thinking in children under age 7. These were a study by Fessakis et al. (2013) on whether mathematical ability in young children could be developed using Logo, and Kazakoff and Bers (2012) study in to sequential thinking.
+
+*Summary*
+
+More research is needed in to computational practices and perspectives in the classroom (and in general in natural K-12 settings). Verbalising thought processes and using discovery based environments with correct scaffolding.
+
+Computational thinking is a problem-solving skill that can be transferred to other domains.
+
 **A review of models for introducing computational thinking, computer science and computing in K-12 education. (2016)**
 
+Reviewing how different countries (10 in total) have introduced computer science in to K-12 curricula. Including subject content and how the content is being taught. Has computing been given it's own subject or is it combined with another discipline.
 
+![Programming Education]({{ site.url }}{{ site.baseurl }}/assets/programmingeducation.png)
 
+*Summary*
+
+Of the 10 countries reviewed, 7 countries have computers science in some form as compulsory in primary education. Only South Korea, England and Poland have computer science as it's own subject in primary education.
+
+**Computing Education in K-12 Schools: A Review of the Literature**
 
 **Sources**
 
