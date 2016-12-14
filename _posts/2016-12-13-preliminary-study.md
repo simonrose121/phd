@@ -23,7 +23,7 @@ This article will have the following structure; a brief recap of research method
 
 ## Existing Methodologies
 
-I first identified studies in to computational thinking, problem solving, or just general programming (using Scratch etc) where the participants were 8 years old or younger. This currently consists of 14 papers, I will try and add more as I find them.
+I first identified studies in to computational thinking, problem solving, or just general programming (using Scratch etc) where the participants were 8 years old or younger. It is worth noting that there are a lot more papers who focus on children over this age. This currently consists of 14 papers, I will try and add more as I find them.
 
 Type of Paper:
 
@@ -63,6 +63,10 @@ If I require the teacher to deliver some form of curriculum then the willingness
 
 ## Study Plan
 
+- Participants
+	- Y2 students from 2 different primary schools
+		- One with experience using programming tools.
+		- One where programming tools are not a key part of the curriculum.
 - Mixed methods
 	- Quantitative data collected through a problem solving assessment (focus on sequencing ability, need to scale this to be appropriate for the age group picked).
 	- Qualitative data in the form of focus groups and/or feedback from students as the intervention is taking place.
@@ -72,5 +76,5 @@ If I require the teacher to deliver some form of curriculum then the willingness
 	- **Need to decide on an assessment**
 - Intervention
 	- 2 groups
-		- One using Lightbot (or Lightbot Jr depending on the environment)
+		- One using Lightbot (or Lightbot Jr depending on the environment).
 		- One using another game? or another programming tool?
