@@ -44,4 +44,14 @@ Most of these studies are testing some form of programming environment on cognit
 
 ## Possible Methodologies
 
-This largely hinges around environmental limitations of how long intervention studies can last in school (and how long I'd want it to last). For example, it is unlikely that I will be able to conduct an intensive week of intervention.
+This largely hinges around environmental limitations of how long intervention studies can last in school (and how long I'd want it to last). For example, it is unlikely that I will be able to conduct an intensive week of intervention, but an after-school club format may be more reasonable.
+
+### Initial Idea
+
+The initial idea for a study is to see if the results of [Kazakoff et al. (2013)]({{ site.baseurl }}{% post_url 2016-11-29-sequential-thinking %}) can be recreated using a programming game such as Lightbot.
+
+Ideally this would use a pre-test post-test experimental design.  The assessments would focus on sequential thinking ability (previously this has been done using sequencing story assessments however some alternative could be used).
+
+### Possible Issues
+
+The current ability and experience level of children in using programming tools. Schools who have properly grasped the computing curriculum will be more difficult to find publishable results in because the children will already have the computational skills given by these tools. This could be counteracted by using more than one school to conduct the study, but could be problematic with only one researcher.
