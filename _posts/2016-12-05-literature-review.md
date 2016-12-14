@@ -30,6 +30,7 @@ This review by Kalelioglu, Gulbahar and Kukul aims to synthesise literature on c
 ![Computational Thinking Wordle]({{ site.url }}{{ site.baseurl }}/assets/CTwordle.png){:width="500px"}
 
 The searched for papers from six different databases and digital libraries (may be useful in future):
+
 - Ebscohost
 - ScienceDirect
 - Web of Science
@@ -38,6 +39,7 @@ The searched for papers from six different databases and digital libraries (may 
 - ACM Digital Library
 
 Common defined features that form the scope of CT:
+
 - Abstraction
 - Problem solving
 - Algorithmic thinking
@@ -48,10 +50,12 @@ They also found that most papers produced on computational thinking were idea pa
 Roadmap for computational thinking as a problem-solving process:
 
 *Identify the problem*
+
 - Abstraction
 - Decomposition
 
 *Gathering, representing and analysing data*
+
 - Data collection
 - Data analysis
 - Pattern recognition
@@ -59,15 +63,18 @@ Roadmap for computational thinking as a problem-solving process:
 - Data representation
 
 *Generate, select and plan solutions*
+
 - Mathematical reasoning
 - Building algorithms and procedures
 - Parallelisation
 
 *Implement solutions*
+
 - Automation
 - Modeling and simulations
 
 *Assessing solutions and continue for improvement*
+
 - Testing
 - Debugging
 - Generalisation

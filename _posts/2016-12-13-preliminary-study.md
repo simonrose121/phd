@@ -26,15 +26,18 @@ This article will have the following structure; a brief recap of research method
 I first identified studies in to computational thinking, problem solving, or just general programming (using Scratch etc) where the participants were 8 years old or younger. This currently consists of 14 papers, I will try and add more as I find them.
 
 Type of Paper:
+
 - Journal Article - **11**
 - Conference Proceedings - **3**
 
 Overall approach:
+
 - Quantitative - **7**
 - Qualitative - **3**
 - Mixed methods - **4**
 
 Research design:
+
 - Post-test only - **8**
 - Pre-test post-test - **3**
 - Iterative - **2**
