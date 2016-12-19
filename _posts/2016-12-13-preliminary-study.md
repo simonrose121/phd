@@ -5,7 +5,7 @@ date:  2016-12-13 11:41:00 +0100
 categories: planning
 ---
 
-All good PhD's consist of regularly published work. Coupled with the need for an exploratory study to break open the research area (and hopefully give some publishable results).
+To start off my PhD, I'm going to conduct an exploratory study (and hopefully get some publishable results).
 
 This article will have the following structure; a brief recap of research methodologies, an outline of methodologies used by existing studies, possible methodologies for my study, and a justified choice of methodology (to be turned in an application). Research ethics will also need to be considered as applications take a while to be approved.
 
@@ -17,7 +17,6 @@ This article will have the following structure; a brief recap of research method
 - Empirical
 	- Pre-test post-test
 	- Post-test only
-	- Pre-test only
 - Case study
 - Secondary analysis
 
