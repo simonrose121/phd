@@ -22,23 +22,24 @@ This article will have the following structure; a brief recap of research method
 
 ## Existing Methodologies
 
-I first identified studies in to computational thinking, problem solving, or just general programming (using Scratch etc) where the participants were 8 years old or younger. It is worth noting that there are a lot more papers who focus on children over this age. This currently consists of 14 papers, I will try and add more as I find them.
+I first identified studies in to computational thinking, problem solving, or just general programming (using Scratch etc) where the participants were 8 years old or younger. It is worth noting that there are a lot more papers who focus on children over this age. This currently consists of 15 papers, I will try and add more as I find them.
 
 Type of Paper:
 
-- Journal Article - **11**
+- Journal Article - **12**
 - Conference Proceedings - **3**
 
 Overall approach:
 
 - Quantitative - **7**
 - Qualitative - **3**
-- Mixed methods - **4**
+- Mixed methods - **5**
 
 Research design:
 
 - Post-test only - **8**
 - Pre-test post-test - **3**
+- Mid-test post-test - **1**
 - Iterative - **2**
 - Case study - **1**
 
