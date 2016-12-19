@@ -60,6 +60,15 @@ The first possible issue is the current ability and experience level of children
 
 If a teacher is required to deliver some form of curriculum then the willingness and eagerness of her/him will be a vital part of the study. I think the best option would be to deliver some content myself, as part of an after school club (or something similar). After school clubs of this type are often popular with children due to them being able to use computers.
 
+## Research Problem
+
+Do programming games have an effect on sequencing ability in young children?
+
+## Hypotheses
+
+- Programming games will improve the sequencing ability of young children (NOTE: determine sequencing ability before pre-test takes place?)
+- Programming games provide knowledge transfer to sequencing ability in other problem-solving contexts (maths, language, etc)
+
 ## Study Plan
 
 - Participants
