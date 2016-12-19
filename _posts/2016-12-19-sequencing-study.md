@@ -9,10 +9,10 @@ This article is a page of notes that will help me write the research design for 
 
 ## Research Problem
 
-Do programming tools (such as Lightbot) have an effect on sequencing ability in young children?
+Do programming games (such as Lightbot) have an effect on sequencing ability in young children?
 
 ## Hypothesis
-- *Proposed outcomes of the research*
+*Proposed outcomes of the research*
 
 - Programming games will improve the sequential thinking ability of young children.
 - Programming games will provide a transfer of knowledge to sequencing ability in other problem-solving contexts.
@@ -26,4 +26,4 @@ The study will follow a quasi-experimental pre-test post-test design. Quantitati
 ## Potential Limitations
 - *Practical limitations of the study*
 
-The computational thinking ability of the children may affect the study. If they have already developed sequential thinking skills, the intervention may show no effect between the pre and post tests.
+The existing computational thinking ability of the participants may affect the study. If they have already developed sequential thinking skills, the intervention may show no effect between the pre and post tests.
