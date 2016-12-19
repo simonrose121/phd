@@ -2,14 +2,14 @@
 layout: post
 title:  "Planning a Preliminary Study"
 date:  2016-12-13 11:41:00 +0100
-categories: planning
+categories: study
 ---
 
-To start off my PhD, I'm going to conduct an exploratory study (and hopefully get some publishable results).
+To start off my PhD, I'm going to conduct an exploratory study (and hopefully get some publishable results). This will be coupled with a literature review to hopefully produce a publishable paper by the end of the first year.
 
 This article will have the following structure; a brief recap of research methodologies, an outline of methodologies used by existing studies, possible methodologies for my study, and a justified choice of methodology (to be turned in an application). Research ethics will also need to be considered as applications take a while to be approved.
 
-## Methodologies
+## Research Methodologies
 - Overall approach
 	- Qualitative
 	- Quantitative
@@ -52,13 +52,13 @@ This largely hinges around environmental limitations of how long intervention st
 
 The initial idea for a study is to see if the results of [Kazakoff et al. (2013)]({{ site.baseurl }}{% post_url 2016-11-29-sequential-thinking %}) can be recreated using a programming game such as Lightbot.
 
-Ideally this would use a pre-test post-test experimental design.  The assessments would focus on sequential thinking ability (previously this has been done using sequencing story assessments however some alternative could be used).
+Ideally this would use a pre-test post-test experimental design.  The assessments would focus on sequential thinking ability (previously this has been done using sequencing story assessments, however some alternative could be used).
 
 ### Possible Issues
 
-The current ability and experience level of children in using programming tools. Schools who have properly grasped the computing curriculum will be more difficult to find publishable results in because the children will already have the computational skills given by these tools. This could be counteracted by using more than one school to conduct the study, but could be problematic with only one researcher.
+The first possible issue is the current ability and experience level of children in using programming tools. Schools who have properly grasped the computing curriculum will be more difficult to find publishable results in as the children will already have the computational skills. This could be counteracted by using more than one school to conduct the study, but could be problematic with only one researcher.
 
-If I require the teacher to deliver some form of curriculum then the willingness of her/him will be a vital part of the study. I think the best option would be to deliver some content myself, as part of an after school club. After school clubs are often popular with this kind of activity due to them being able to use computers.
+If a teacher is required to deliver some form of curriculum then the willingness and eagerness of her/him will be a vital part of the study. I think the best option would be to deliver some content myself, as part of an after school club (or something similar). After school clubs of this type are often popular with children due to them being able to use computers.
 
 ## Study Plan
 
@@ -66,9 +66,10 @@ If I require the teacher to deliver some form of curriculum then the willingness
 	- Y2 students from 2 different primary schools
 		- One with experience using programming tools.
 		- One where programming tools are not a key part of the curriculum.
+		- This way it's setting up the study for possibly another difference.
 - Mixed methods
 	- Quantitative data collected through a problem solving assessment (focus on sequencing ability, need to scale this to be appropriate for the age group picked).
-	- Qualitative data in the form of focus groups and/or feedback from students as the intervention is taking place.
+	- Qualitative data in the form of focus groups, feedback from students as the intervention is taking place and researcher observations of participant activities.
 - Pre-test post-test design
 	- Testing in the form of sequencing assessments.
 	- These will need to differ between the pre and post-test, but be similar enough to be comparable.
@@ -76,4 +77,4 @@ If I require the teacher to deliver some form of curriculum then the willingness
 - Intervention
 	- 2 groups
 		- One using Lightbot (or Lightbot Jr depending on the environment).
-		- One using another game? or another programming tool?
+		- A control measure, using another game? or another programming tool?
