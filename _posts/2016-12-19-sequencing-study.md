@@ -45,6 +45,6 @@ The data will be analysed using the R statistical programming language.
 ## Potential Limitations
 - *Practical limitations of the study*
 
-The existing computational thinking ability of the participants may affect the study. If they have already developed sequential thinking skills, the intervention may show no difference between the pre and post tests. This is particularly relevant as schools have been instructed to teach computational thinking to Y1 children using picture sequences, and combine this with beebots  (Bush & Harris, 2014).
+The existing computational thinking ability of the participants may affect the study. If they have already developed sequential thinking skills, the intervention may show no difference between the pre and post tests. This is particularly relevant as schools have been instructed to teach computational thinking to Y1 children using picture sequences, and combine this with beebots (Bush & Harris, 2014).
 
 Further limitations will include the amount of time the participants can spend playing the games, as it will need to be fitted in to the curriculum. A possible method is after school clubs, although this will result in lower participant numbers.
