@@ -7,7 +7,9 @@ categories: study
 
 This article is a page of notes that will help me write the research design for the preliminary study mentioned in the [last article]({{ site.baseurl }}{% post_url 2016-12-13-preliminary-study %}). It will be split into the same structure as the final research design document, which will be used when planning and eventually writing up the study.
 
-## Research Problem
+## Research Question
+
+Previous research has found that developmentally appropriate robotics programming can have a positive impact on sequential thinking ability in young children (Kazakoff & Bers, 2011; Kazakoff et al., 2013). The sequential nature of programming games indicates they may improve sequential thinking. It would be interesting to see if the improvement in sequencing ability can be replicated using a programming game. The research question is as follows:
 
 Do programming games (such as Lightbot) have an effect on sequencing ability in young children?
 
