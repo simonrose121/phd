@@ -37,6 +37,8 @@ Schools are already teaching sequencing as computational thinking, so it would b
 - *How will the data be stored and analysed?*
 - *Statistical treatment - ANOVA? t-test?*
 
+The data will be analysed using the R statistical programming language.
+
 ## Ethical Considerations
 - *How will risk to participants be minimised?*
 
