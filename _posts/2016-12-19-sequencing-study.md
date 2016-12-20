@@ -25,12 +25,20 @@ The proposed hypotheses for the research are as follows:
 - *Participants*
 - *Methods of data collection? (pre-test post-test)*
 - *Primary or secondary data?*
+- *How will the sequencing assessments be scored?*
 
 The study will follow a quasi-experimental pre-test post-test design. The participants will be Y1 children (aged 5 and 6). A sequential mixed-methods approach will be used. Quantitative data will be collected using a sequencing assessment. Participants will be asked to order 4 pictures representing stages of a known event, e.g. a flower growing. This type of assessment was first used by Baron-Cohen, Leslie, & Frith (1986). The participants will be split in to two groups; one will play Lightbot Jr, and the other will play a side scrolling game that does not employ sequencing. Participants will play the game for half an hour a day for a week, and then complete a post-test of a different story sequence. Qualitative data will be collected through observations whilst the intervention is taking place.
 
 **Notes**
 
 Schools are already teaching sequencing as computational thinking, so it would be good to have a scientific study to back up this logic! Or does it dramatically reduce the chance of getting good results?
+
+## Data Analysis
+- *How will the data be stored and analysed?*
+- *Statistical treatment - ANOVA? t-test?*
+
+## Ethical Considerations
+- *How will risk to participants be minimised?*
 
 ## Potential Limitations
 - *Practical limitations of the study*
