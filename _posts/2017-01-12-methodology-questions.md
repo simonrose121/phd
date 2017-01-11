@@ -71,4 +71,4 @@ This is all subject to agreement from the school. Potential issues are:
 - Taking into account tablets that aren't working.
 - Possible collaboration, will this matter?
 
-The final question is what the second game will be. It needs to be a game that contains no sequencing but has some educational value so that it can be justified (and children aren't going to school and just playing computer games).
+The final question is what the second game will be. It needs to be a game that contains no sequencing but has some educational value so that it can be justified (and children aren't going to school and just playing computer games). It also needs to be interesting enough that it holds the attention of the participants.
