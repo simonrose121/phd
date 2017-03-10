@@ -5,7 +5,7 @@ date:  2017-03-10 08:57:00 +0100
 categories: study
 ---
 
-I outlined several questions in my [last post]({{ site.baseurl }}{% post_url 2017-01-12-methodology-questions %}) about the methodology I'm going to be using for my first PhD study. This post will hopefully answer those questions.
+I outlined several questions in my [last post]({{ site.baseurl }}{% post_url 2017-01-12-methodology-questions %}) about the methodology I'm going to be using for my first PhD study. This post will aim to answer those questions.
 
 #### Formative Testing
 
