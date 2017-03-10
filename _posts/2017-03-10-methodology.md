@@ -19,6 +19,9 @@ indicates a change made since the school agreed to it.*
 		- 45 LightbotJr
 		- 45 Phonics
 	- 20 minutes per day for 5 days
+		- Groups of 10 in the same condition
+			- 9 groups per day* *too many to get through?*
+	- Using 15 iPads with both applications installed
 	- Reading room between classrooms
 - Post-test (Monday 15th May)
 	- Same application as the pre-test one
