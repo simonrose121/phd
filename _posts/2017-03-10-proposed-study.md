@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Proposed Methodology"
+title:  "Proposed Study"
 date:  2017-03-10 10:13:00 +0100
 categories: study
 ---
