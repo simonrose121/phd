@@ -9,7 +9,7 @@ I outlined several questions in my [last post]({{ site.baseurl }}{% post_url 201
 
 #### Formative Testing
 
-I visited a local primary school to test an alpha version of the software that will be used for the pre-and post-test, and to see how children handled LightbotJr. Y1's were given *some* assistance by Y6's, although they were told limit this.
+I visited a local primary school to test an alpha version of the software that will be used for the pre-and post-test, and to see how children handled LightbotJr. Y1's were given *some* assistance by Y6's, but this was supposed to be limited.
 
 The alpha version of the software had:
 
@@ -30,7 +30,7 @@ From the formative testing of my sequencing application (more on this later), Y1
 
 **In summary**
 
-- 20 questions for both the pre-test and post-test.
+- 15 questions for both the pre-test and post-test (30 questions total).
 - 5 minute time limit, that isn't intrusive (so no timer on screen) and allows them to complete the current question before ending the test.
 - Using the scoring system of previous studies (2 for correct sequence, 1 for correct end to the sequence, 0 for incorrect sequence.)
 
@@ -85,11 +85,11 @@ It's now been confirmed that the study will take place in a primary school with 
 
 The children will be split in to 2 groups, one playing Lightbot and one using the Phonics app. Groups randomised across classes to reduce the impact that a single teacher might be having on the dependant variable in the study.
 
-The year group has access to 15 iPads that will be used for the intervention, and have agreed to install both LightbotJr and the phonics app.
+The year group has access to 15 iPads that will be used for the intervention, and have agreed to install both LightbotJr and the phonics app. The children will play one of the games for 20 minutes a day in groups of 10 (so 9 groups per day if all the children participate).
 
 #### Summary
 
-So all in all, it's looking pretty good. I need to make some changes to the testing software, so that will be the next step and possibility the next blog post. The study is penciled in to take place at the start of May, so I have about 8 weeks to perfect it.
+So all in all, it's looking pretty good. I need to make some changes to the testing software, so that will be the next step and possibility the next blog post. The study is penciled in to take place at the start of May, so I have about 8 weeks to make sure it works properly and to make sure the methodology doesn't have any holes.
 
 #### Sources
 
